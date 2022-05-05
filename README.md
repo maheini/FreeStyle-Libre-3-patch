@@ -5,7 +5,7 @@ Public repo to drive Libre 3 development.
 This repo should be used to exchange informations about Libre 3. Possible goals are the decryption and the creation of an interface for Xdrip.
 
 ## Current state
-Start phase. The apk file if avilable for download [here](https://apkpure.com/de/search?q=libre+3) in most languages. There seems to be a second development ongoing here: https://github.com/gui-dos/DiaBLE/
+Start phase. The apk file if available for download [here](https://apkpure.com/de/search?q=libre+3) in most languages. There seems to be a second development ongoing here: https://github.com/gui-dos/DiaBLE/
 
 ## Todo
 1. Extract all data in a useful format
