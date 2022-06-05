@@ -21,5 +21,9 @@ Start phase. The apk file if available for download [here](https://apkpure.com/d
 
 The following things are known about the libre 3 app: After startup, the app gets checked it there are any modifications. WhiteCryption code protection is used.
 
+## Current solutions for FSL 3
+
+- Librelink to Nightscout sideloading: https://github.com/timoschlueter/nightscout-librelink-up
+- Second project is in progress (More coming soon)
 
 #### #WeAreNotWaiting
