@@ -24,6 +24,7 @@ The following things are known about the libre 3 app: After startup, the app get
 ## Current solutions for FSL 3
 
 - Librelink to Nightscout sideloading: https://github.com/timoschlueter/nightscout-librelink-up
-- Second project is in progress (More coming soon)
+- App for downloading Linkup data and sharing with Xdrip (source: Libre 2) : https://insulinclub.de/index.php?thread/32517-freestyle-libre-3/&postID=650302#post650302
+- Third solution is in progress, more about it soon.
 
 #### #WeAreNotWaiting
