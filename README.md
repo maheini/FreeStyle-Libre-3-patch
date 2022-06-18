@@ -13,6 +13,10 @@ Public repo to drive Libre 3 development. This repo should be used to exchange i
 
 The decryption itselfe seems hard to break. However, there are already some solutions, as described above. The Libre 3 apk file if available for download [here](https://apkpure.com/de/search?q=libre+3) in most languages.
 
+## How to contribute
+
+If you got any useful informations about Libre 3, share those within the [discussions tab](https://github.com/maheini/FreeStyle-Libre-3-patch/discussions). Also, feel free to work on any of the todos listed below. 
+
 ## Todo
 
 1. Extract all data in a useful format
