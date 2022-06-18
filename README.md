@@ -1,14 +1,17 @@
 # FreeStyle-Libre-3-patch
 
-Public repo to drive Libre 3 development.
+Public repo to drive Libre 3 development. This repo should be used to exchange informations about Libre 3. Possible goals are the decryption and the creation of an interface for Xdrip.
 
-## About Libre3 patch
+## Current solutions for FSL 3
 
-This repo should be used to exchange informations about Libre 3. Possible goals are the decryption and the creation of an interface for Xdrip.
+- Free Three: An offline solution -> requires root and some knowhow. [Link (German)](https://insulinclub.de/index.php?thread/33795-free-three-ein-xposed-lsposed-modul-f%C3%BCr-libre-3-aktueller-wert-am-sperrbildschir/)
+- Librelink to Nightscout sideloading: [Github repo](https://github.com/timoschlueter/nightscout-librelink-up)
+- App for downloading Linkup data and sharing with Xdrip (source: Libre 2) : [Link (German)](https://insulinclub.de/index.php?thread/32517-freestyle-libre-3/&postID=650302#post650302)
+- In development for iOS: DiaBLE -> trying to leverage the FSTL3 capabilities. [Github repo](https://github.com/gui-dos/DiaBLE)
 
 ## Current state
 
-Start phase. The apk file if available for download [here](https://apkpure.com/de/search?q=libre+3) in most languages. There seems to be a second development ongoing here: https://github.com/gui-dos/DiaBLE/
+The decryption itselfe seems hard to break. However, there are already some solutions, as described above. The Libre 3 apk file if available for download [here](https://apkpure.com/de/search?q=libre+3) in most languages.
 
 ## Todo
 
@@ -19,12 +22,6 @@ Start phase. The apk file if available for download [here](https://apkpure.com/d
 
 ## Encryption infos
 
-The following things are known about the libre 3 app: After startup, the app gets checked it there are any modifications. WhiteCryption code protection is used.
-
-## Current solutions for FSL 3
-
-- Librelink to Nightscout sideloading: https://github.com/timoschlueter/nightscout-librelink-up
-- App for downloading Linkup data and sharing with Xdrip (source: Libre 2) : https://insulinclub.de/index.php?thread/32517-freestyle-libre-3/&postID=650302#post650302
-- Third solution is in progress, more about it soon.
+The following things are known about the libre 3 app: After startup, the app gets checked if there are any modifications. WhiteCryption code protection is used.
 
 #### #WeAreNotWaiting
