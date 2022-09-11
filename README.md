@@ -10,7 +10,6 @@ Please note: I wasn't involved into the development of Juggluco and the final Li
 
 ## Other solutions for FSL 3 (requiring root or online connection)
 
-- Simplest & best: Juggluco FSL3 patched .apk -> [website](http://jkaltes.byethost16.com/Juggluco/libre3/). Big thanks to jkaltes :thumbsup:
 - Free Three: An offline solution -> requires root and some knowhow, also only supports libre 3 app upp to version 3.3.1. [Link (German)](https://insulinclub.de/index.php?thread/33795-free-three-ein-xposed-lsposed-modul-f%C3%BCr-libre-3-aktueller-wert-am-sperrbildschir/)
     ->Latest download: [Link](https://mega.nz/file/H51h3ILS#65mfhvDvPbtnbdWSOeXHHNxABDD60nP7iODxaDN_QPk)
 - Librelink to Nightscout sideloading: [Github repo](https://github.com/timoschlueter/nightscout-librelink-up)
