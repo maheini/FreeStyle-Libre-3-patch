@@ -13,7 +13,7 @@ Please note: I wasn't involved into the development of Juggluco and the final Li
 - Free Three: An offline solution -> requires root and some knowhow, also only supports libre 3 app upp to version 3.3.1. [Link (German)](https://insulinclub.de/index.php?thread/33795-free-three-ein-xposed-lsposed-modul-f%C3%BCr-libre-3-aktueller-wert-am-sperrbildschir/)
     ->Latest download: [Link](https://mega.nz/file/H51h3ILS#65mfhvDvPbtnbdWSOeXHHNxABDD60nP7iODxaDN_QPk)
 - Librelink to Nightscout sideloading: [Github repo](https://github.com/timoschlueter/nightscout-librelink-up)
-- *LLU Clinet* App for downloading Linkup data and sharing with Xdrip (source: Libre 2) : [Link (German)](https://insulinclub.de/index.php?thread/32517-freestyle-libre-3/&postID=650302#post650302)
+- App (LLU Client) for downloading Linkup data and sharing with Xdrip (source: Libre 2) : [Link (German)](https://insulinclub.de/index.php?thread/33987-llu-client/&postID=654144#post654144)
 - [*LinkUpConnect*](https://github.com/cmtjk/LinkUpConnect) and alternative for *LLC Clinet* which is able to show BG as notifications withoud Xdrip+
 - [*Web Follower*](https://xdrip.readthedocs.io/en/latest/install/webfollower/) feature in Nightly build of Xdrip+ (calibration is not possible)    
 - In development for iOS: DiaBLE -> trying to leverage the FSTL3 capabilities. [Github repo](https://github.com/gui-dos/DiaBLE)
