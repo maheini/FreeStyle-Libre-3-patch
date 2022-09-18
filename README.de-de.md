@@ -18,8 +18,8 @@ Info: Ich war nicht persönlich beteiligt bei der Entwicklung von Juggluco und d
     ->Neuster Download: [Link](https://mega.nz/file/H51h3ILS#65mfhvDvPbtnbdWSOeXHHNxABDD60nP7iODxaDN_QPk)
 - Librelink zu Nightscout sideloading: [Github repo](https://github.com/timoschlueter/nightscout-librelink-up)
 - App (LLU Client) um die Linkup Daten herunterzuladen und mit Xdrip zu teilen (Blutzuckerquelle: Libre 2): [Link](https://insulinclub.de/index.php?thread/33987-llu-client/&postID=654144#post654144)
-- [LinkUpConnect](https://github.com/cmtjk/LinkUpConnect) eine Alternative für LLU Client, welche in der Lange ist, den Blutzucker als Benachrichtigung anzuzeigen (ohne Xdrip+).
-- [Web Follower](https://xdrip.readthedocs.io/en/latest/install/webfollower/) Funktion im Nightly build von Xdrip+ (Kalibrierungen sind nicht möglich)
+- [LinkUpConnect](https://github.com/cmtjk/LinkUpConnect): eine Alternative für LLU Client, welche in der Lange ist, den Blutzucker als Benachrichtigung anzuzeigen (ohne Xdrip+).
+- [Web Follower](https://xdrip.readthedocs.io/en/latest/install/webfollower/): Funktion im Nightly build von Xdrip+ (Kalibrierungen sind nicht möglich)
 - In Entwicklung für iOS: DiaBLE -> Versucht die Möglichkeiten vom FSTL3 zu erweitern. [Github repo](https://github.com/gui-dos/DiaBLE)
 
 ## Aktueller Stand
