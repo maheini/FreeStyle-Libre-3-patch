@@ -95,7 +95,7 @@ Mandatory settings for successful sensor start:
 
 Please note that the location service is a central setting. This is not the app location permission which has to be set also!
 
-## Step 4: Finally set up xDrip
+## Step 4 (optional): Set up xDrip
 
 The blood sugar values are received on the smartphone by the xDrip+ App.
 
@@ -107,9 +107,7 @@ The blood sugar values are received on the smartphone by the xDrip+ App.
 - to enable AAPS to receive blood sugar levels (version 2.5.x and later) from xDrip+ please set Settings -> Interapp Settings -> Identify Receiver "info.nightscout.androidaps".
 - If you want to be able to use AndroidAPS to calibrate then in xDrip+ go to Settings -> Interapp Compatibility -> Accept Calibrations and select ON. You may also want to review the options in Settings -> Less Common Settings -> Advanced Calibration Settings.
 
-![xDrip+ LibreLink logging](../images/Libre2_Tags.jpg)
-
-## Step 5: Start sensor within xDrip
+## Step 5 (optional): Start sensor within xDrip
 
 In xDrip+ start the sensor with "Start Sensor" and "not today".
 
@@ -117,7 +115,7 @@ In fact this will not physically start any Libre2 sensor or interact with them i
 
 After a sensor change xDrip+ will automatically detect the new sensor and will delete all calibration data. You may check you bloody BG after activation and make a new initial calibration.
 
-## Step 6: Configure AndroidAPS (for looping only)
+## Step 6 (for looping only): Configure AndroidAPS (for looping only)
 
 - In AndroidAPS go to Config Builder -> BG Source and check "xDrip+"
 - If AndroidAPS does not receive BG values when phone is in airplane mode, use "Identify receiver"
