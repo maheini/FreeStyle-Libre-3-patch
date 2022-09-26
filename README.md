@@ -6,9 +6,13 @@
 
 Public repo to drive Libre 3 development. This repo should be used to exchange informations about Libre 3. Possible goals are the decryption and the creation of an interface for Xdrip.
 
+## Disclaimer
+
+Usage of the informations and app from github.com is at your own risk and without warranty or formal support of any kind. This project has no association with and is not endorsed by Abbott.
+
 ## Juggluco solution
 
-A huge thanks to [jkaltes](http://jkaltes.byethost16.com/) for all the work. With The [new FSTL3 patch](http://jkaltes.byethost16.com/Juggluco/libre3/), there's finally an offline solution which doesn't requires root access and is fully integrated with Xdrip. Just download & install the [patched apk file](https://github.com/maheini/FreeStyle-Libre-3-patch/raw/main/Patched%20Apk/Libre%203_v3.3.0_apkfab.com.apk) and afterwards [get Juggluco from Google Play](https://play.google.com/store/apps/details?id=tk.glucodata&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) and set everything up. For more informations, please visit jkaltes website: [link](http://jkaltes.byethost16.com/Juggluco/libre3/)
+A huge thanks to [jkaltes](http://jkaltes.byethost16.com/) for all the work. With The [new FSTL3 patch](http://jkaltes.byethost16.com/Juggluco/libre3/), there's finally an offline solution which doesn't requires root access and is fully integrated with Xdrip. Just download & install the [patched apk file](https://github.com/maheini/FreeStyle-Libre-3-patch/raw/main/Patched%20Apk/Libre%203_v3.3.0_apkfab.com.apk) (Warning: At your own risk and without warranty of any kind) and afterwards [get Juggluco from Google Play](https://play.google.com/store/apps/details?id=tk.glucodata&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) and set everything up. For more informations, please visit jkaltes website: [link](http://jkaltes.byethost16.com/Juggluco/libre3/)
 
 Please note: I wasn't involved into the development of Juggluco and the final Libre 3 patch, but I love to share all the development work which is going on.
 
