@@ -17,19 +17,19 @@ Download the patched .apk file [here](https://github.com/maheini/FreeStyle-Libre
 
 After you successfully installed the app on your phone, open the app. If you see any warning like the one below, you can ignore it. (The app is working with any EU sensor).
 
-![LibreLink warning](../images/step_1.png)
+![LibreLink warning](../images/step_1.jpg)
 
 If you are on the screen "Create an Account", you got the option to create a LibreView account. This might be a good option, as you got the possibility to re-enable a sensor with a different  app. It also allows you to share the BG data to LibreView. I you don't like to, just press "Skip" at the top right.
 
-![LibreView account](../images/step_2.png)
+![LibreView account](../images/step_2.jpg)
 
 Plese select your Unit of Messurement on this screen. You can change it later as well.
 
-![Measurement Unit selection](../images/step_3.png)
+![Measurement Unit selection](../images/step_3.jpg)
 
 If you got a Popup, asking for "Ignore battery optimisation?", click "ALLOW". This will keep the Libre3 app running in the background.
 
-![Disable battery optimisations](../images/step_4.png)
+![Disable battery optimisations](../images/step_4.jpg)
 
 Now you should have set up the Libre3 app. Let's continue with the connection to Juggluco
 
@@ -37,15 +37,15 @@ Now you should have set up the Libre3 app. Let's continue with the connection to
 
 Open the Libre3 sidebar and select Juggluco.
 
-![Juggluco menu](../images/step_5.png)
+![Juggluco menu](../images/step_5.jpg)
 
 Within the Juggluco menu, ensure "Port" is set to 7117 and click "Add Connection" on the bottom.
 
-![Juggluco overview](../images/step_6.png)
+![Juggluco overview](../images/step_6.jpg)
 
 Now, fill in everything, according to the image below:
 
-![Libre Juggluco setup](../images/step_7.png)
+![Libre Juggluco setup](../images/step_7.jpg)
 
 It you are done, click on "Save" to confirm your setttings. Awesome, you can close the Libre3 app now!
 
@@ -55,31 +55,31 @@ Download and install [Juggluco app from GooglePlay](https://play.google.com/stor
 
 Now let's open the app. You will be greeted with this screen below. Just click the "Without sensor" button.
 
-![Juggluco welcome screen](../images/step_8.png)
+![Juggluco welcome screen](../images/step_8.jpg)
 
 After that, you get a short introduction text. Click on "OK".
 
-![Juggluco instroduction screen](../images/step_9.png)
+![Juggluco instroduction screen](../images/step_9.jpg)
 
 Ok, let's setup Juggluco! The app itself doesn't have the best Interface, but it's a very useful app. To open the settings, click anywhere on the top left screen. Now you should see this menu below. Select "Settings".
 
-![Juggluco settings menu](../images/step_10.png)
+![Juggluco settings menu](../images/step_10.jpg)
 
 Within the settings, you can configure the data-connection to xDrip. Click on "Send to xDrip" and press "OK".
 
-![Juggluco settings](../images/step_11.png)
+![Juggluco settings](../images/step_11.jpg)
 
 Press on the top left center within the Juggluco app. A new menu should pop up. Please select "Mirror".
 
-![Juggluco connection menu](../images/step_12.png)
+![Juggluco connection menu](../images/step_12.jpg)
 
 You should see this screen. Please check the port settings on the top right corner, which should be set to "8795" and after that, tap on "Add Connection". (Keep in mind, within the Juggluco app the ports are switched)
 
-![Juggluco connection screen](../images/step_13.png)
+![Juggluco connection screen](../images/step_13.jpg)
 
 Now let's fill in all the settings as shown below and your password according to your Libre3 password. If you did that - press "Save" to confirm.
 
-![Juggluco connection settings](../images/step_14.png)
+![Juggluco connection settings](../images/step_14.jpg)
 
 Well done! You can now try to press the "Sync" button within the previous menu. After some time, Juggluco should receive the blood glucose values automatically from Libre3 app.
 
@@ -107,7 +107,7 @@ The blood sugar values are received on the smartphone by the xDrip+ App.
 - to enable AAPS to receive blood sugar levels (version 2.5.x and later) from xDrip+ please set Settings -> Interapp Settings -> Identify Receiver "info.nightscout.androidaps".
 - If you want to be able to use AndroidAPS to calibrate then in xDrip+ go to Settings -> Interapp Compatibility -> Accept Calibrations and select ON. You may also want to review the options in Settings -> Less Common Settings -> Advanced Calibration Settings.
 
-![xDrip+ LibreLink logging](../images/Libre2_Tags.png)
+![xDrip+ LibreLink logging](../images/Libre2_Tags.jpg)
 
 ## Step 5: Start sensor within xDrip
 
