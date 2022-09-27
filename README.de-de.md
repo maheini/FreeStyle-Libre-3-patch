@@ -6,11 +6,15 @@
 
 Öffentliche Repo um Entwicklungen vom Libre 3 voranzutreiben. Diese Repo ist für den Informationsaustausch über den Libre 3 gedacht. Mögliche Ziele sind die Entschlüsselung und die Erstellung einer Schnittstelle für Xdrip.
 
+## Disclaimer
+
+Der Gebrauch von Informationen und der App von github.com ist auf eigenes Risiko und ohne jegliche Art von Garantie oder Unterstützung. Dieses Projekt hat keine Zusammenarbeit und wird nicht empfohlen von Abbott.
+
 ## Juggluco Lösung
 
-Ein grosses Dankeschön an [jkaltes](http://jkaltes.byethost16.com/) für all die Arbeit. Mit dem [neuen FSTL3 patch](http://jkaltes.byethost16.com/Juggluco/libre3/) gibt es endlich eine finale offline Möglichkeit, die keinen Root-Zugriff erfordert und vollständig in Xdrip integriert ist. Einfach nur die [gepatchte apk Datei](https://github.com/maheini/FreeStyle-Libre-3-patch/raw/main/Patched%20Apk/Libre%203_v3.3.0_apkfab.com.apk) herunterladen & installieren, anschliessend [Juggluco vom Google Play installieren](https://play.google.com/store/apps/details?id=tk.glucodata&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) und alles aufsetzen. Eine Umfassende Anleitung ist hier auf Deutsch erhältlich: [Link](https://insulinclub.de/core/index.php?attachment/17545-anleitung-2-mit-links-freestyle-libre-3-und-juggluco-pdf/), mehr Informationen sind zudem auf jkaltes Website verfügbar: [Link (englisch)](http://jkaltes.byethost16.com/Juggluco/libre3/)
+Ein grosses Dankeschön an [jkaltes](http://jkaltes.byethost16.com/) für all die Arbeit. Mit dem [neuen FSTL3 patch](http://jkaltes.byethost16.com/Juggluco/libre3/) gibt es endlich eine finale offline Möglichkeit, die keinen Root-Zugriff erfordert und vollständig in Xdrip integriert ist. Eine ausführliche Anleitung findest du hier: [Anleitung Libre3 patch mit Juggluco](./Juggluco-solution/instructions/de/instructions.md). Oder du benutzt den [Download link](./Juggluco-solution/versions/latest/Libre-3-patch.apk?raw=1). Bitte beachten: Das ganze ist auf eigenes Risiko und ohne jegliche Art von Garantie oder Unterstützung. Dieses Projekt hat keine Zusammenarbeit und wird nicht empfohlen von Abbott.
 
-Info: Ich war nicht persönlich beteiligt bei der Entwicklung von Juggluco und dem finalen Libre 3 Patch, aber ich liebe es, all diese Entwicklungsarbeiten zu teilen.
+Info: Ich war nicht persönlich beteiligt bei der Entwicklung von Juggluco und dem finalen Libre 3 Patch, aber ich teile all diese Entwicklungsarbeiten sehr gerne mit euch.
 
 ## Andere Lösungen für FSL 3 (benötigen Root oder Internetverbindung)
 
