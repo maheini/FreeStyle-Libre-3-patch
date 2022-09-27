@@ -12,7 +12,7 @@ Der Gebrauch von Informationen und der App von github.com ist auf eigenes Risiko
 
 ## Juggluco Lösung
 
-Ein grosses Dankeschön an [jkaltes](http://jkaltes.byethost16.com/) für all die Arbeit. Mit dem [neuen FSTL3 patch](http://jkaltes.byethost16.com/Juggluco/libre3/) gibt es endlich eine finale offline Möglichkeit, die keinen Root-Zugriff erfordert und vollständig in Xdrip integriert ist. Eine ausführliche Anleitung mit Download findet ihr hier: [Anleitung Libre3 patch mit Juggluco](./Juggluco-solution/instructions/de/instructions.md). Bitte beachten: Das ganze ist auf eigenes Risiko und ohne jegliche Art von Garantie oder Unterstützung. Dieses Projekt hat keine Zusammenarbeit und wird nicht empfohlen von Abbott.
+Ein grosses Dankeschön an [jkaltes](http://jkaltes.byethost16.com/) für all die Arbeit. Mit dem [neuen FSTL3 patch](http://jkaltes.byethost16.com/Juggluco/libre3/) gibt es endlich eine finale offline Möglichkeit, die keinen Root-Zugriff erfordert und vollständig in Xdrip integriert ist. Eine ausführliche Anleitung findest du hier: [Anleitung Libre3 patch mit Juggluco](./Juggluco-solution/instructions/de/instructions.md). Oder du benutzt den [Download link](./Juggluco-solution/versions/latest/Libre-3-patch.apk?raw=1). Bitte beachten: Das ganze ist auf eigenes Risiko und ohne jegliche Art von Garantie oder Unterstützung. Dieses Projekt hat keine Zusammenarbeit und wird nicht empfohlen von Abbott.
 
 Info: Ich war nicht persönlich beteiligt bei der Entwicklung von Juggluco und dem finalen Libre 3 Patch, aber ich teile all diese Entwicklungsarbeiten sehr gerne mit euch.
 
