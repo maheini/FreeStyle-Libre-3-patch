@@ -13,7 +13,7 @@ Der Sensor kann im Bereich von -40 mg/dl bis +20 mg/dl (-2,2 mmol/l bis +1,1 mmo
 
 ## Schritt 1: Herunterladen und Einrichten der gepatchten LibreLink-App
 
-Lade die gepatchte .apk-Datei [hier](../../versions/latest/Libre-3-patch.apk) oder [hier](https://apkfab.com/libre-3/com.freestylelibre3.app.de/apk?h=142cfbb2e0b1f10cd280408b10c5a5127e46e00e78d7775dae382529921487e9) herunter und installiere sie auf deinem Handy.
+Lade die gepatchte .apk-Datei [hier](../../versions/latest/Libre-3-patch.apk?raw=1) oder [hier](https://apkfab.com/libre-3/com.freestylelibre3.app.de/apk?h=142cfbb2e0b1f10cd280408b10c5a5127e46e00e78d7775dae382529921487e9) herunter und installiere sie auf deinem Handy.
 
 Nachdem du die App erfolgreich auf deinem Handy installiert haben, öffne die App. Wenn du eine Warnung wie die unten stehende siehst, kannst du diese ignorieren. (Die App funktioniert mit jedem EU-Sensor).
 

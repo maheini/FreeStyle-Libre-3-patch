@@ -13,7 +13,7 @@ The sensor can be calibrated in the range of -40 mg/dl to +20 mg/dl (-2,2 mmol/l
 
 ## Step 1: Download and setup the patched LibreLink-App
 
-Download the patched .apk file [here](../../versions/latest/Libre-3-patch.apk) or [here](https://apkfab.com/libre-3/com.freestylelibre3.app.de/apk?h=142cfbb2e0b1f10cd280408b10c5a5127e46e00e78d7775dae382529921487e9) and install it on your phone.
+Download the patched .apk file [here](../../versions/latest/Libre-3-patch.apk?raw=1) or [here](https://apkfab.com/libre-3/com.freestylelibre3.app.de/apk?h=142cfbb2e0b1f10cd280408b10c5a5127e46e00e78d7775dae382529921487e9) and install it on your phone.
 
 After you successfully installed the app on your phone, open the app. If you see any warning like the one below, you can ignore it. (The app is working with any EU sensor).
 
