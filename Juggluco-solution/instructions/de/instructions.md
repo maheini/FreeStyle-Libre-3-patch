@@ -115,7 +115,7 @@ Dieser Schritt startet keinen Libre2-Sensor oder interagiert in irgendeiner Weis
 
 Nach einem Sensorwechsel wird xDrip+ den neuen Sensor automatisch erkennen und alle Kalibrierungsdaten löschen. Du kannst deine blutig gemessenen Werte nach der Aktivierung überprüfen und eine neue Erstkalibrierung vornehmen.
 
-## Schritt 6 (nur für Looper): AndroidAPS konfigurieren (nur für Looper)
+## Schritt 6 (nur für Looper): AndroidAPS konfigurieren
 
 - In AndroidAPS gehe zu Config Builder -> BG Source und wählen "xDrip+".
 - Wenn AndroidAPS keine Werte empfängt, wenn sich das Telefon im Flugmodus befindet, verwende "Identify receiver".
