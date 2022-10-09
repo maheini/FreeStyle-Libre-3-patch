@@ -115,7 +115,7 @@ In fact this will not physically start any Libre2 sensor or interact with them i
 
 After a sensor change xDrip+ will automatically detect the new sensor and will delete all calibration data. You may check you bloody BG after activation and make a new initial calibration.
 
-## Step 6 (for looping only): Configure AndroidAPS (for looping only)
+## Step 6 (for looping only): Configure AndroidAPS
 
 - In AndroidAPS go to Config Builder -> BG Source and check "xDrip+"
 - If AndroidAPS does not receive BG values when phone is in airplane mode, use "Identify receiver"

@@ -3,6 +3,19 @@
 <a href="README.md"><img alt="EN" src="https://user-images.githubusercontent.com/65506676/190852356-073bf576-6e3a-45f3-a658-be1c4a8d7286.png" width="18px" /> Readme in English</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="README.de-de.md"><img  alt="DE" src="https://user-images.githubusercontent.com/65506676/190851702-b2699677-462a-4a5a-b23e-efb1cad56890.png" width="18px" /> Readme auf Deutsch</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="README.es.md"><img alt="ES" src="https://user-images.githubusercontent.com/65506676/194781638-ef763678-e823-4e1d-a5c6-8f616c7a8cdb.jpg" width="18px" /> Léame en alemán</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="README.fr.md"><img alt="FR" src="https://user-images.githubusercontent.com/65506676/194781642-27c4505f-fc0d-4ddf-a886-21104cdd034f.png" width="18px" /> Lisez-moi en français</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="README.it.md"><img alt="IT" src="https://user-images.githubusercontent.com/65506676/194781648-31d459f3-4471-403d-b6ae-0e3c8535d2ab.svg" width="18px" /> Leggimi in tedesco</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="README.tr.md"><img alt="TR" src="https://user-images.githubusercontent.com/65506676/194781679-b757eafc-fac5-4d34-be78-624e3725cecd.png" width="18px" /> Beni Almanca oku</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="README.ru.md"><img alt="RU" src="https://user-images.githubusercontent.com/65506676/194781655-fcdbba1e-ee4a-4e15-9da6-f7474128a60a.png" width="18px" /> Читайте меня на немецком языке</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="README.ja.md"><img alt="JA" src="https://user-images.githubusercontent.com/65506676/194781651-fdb00a1b-cc5c-42b4-b4ac-86c816d62251.png" width="18px" /> ドイツ語で読む</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 Public repo to drive Libre 3 development. This repo should be used to exchange informations about Libre 3. Possible goals are the decryption and the creation of an interface for Xdrip.
 
