@@ -130,11 +130,11 @@ Nach einem Sensorwechsel wird xDrip+ den neuen Sensor automatisch erkennen und a
 
 ### Fehlerbehebung Libre3 -> Juggluco-Verbindung
 
-- Stellen sicher, dass Libre3 Messwerte empfängt
+- Stelle sicher, dass Libre3 die Messwerte empfängt
 - Überprüfe deine Einstellungen und das Passwort erneut
-- Klicken in Libre3->Juggluco auf „Sync“ und in Juggluco->Mirror auf die Schaltfläche „Sync“ und „Reinit“.
+- Klick im Mene Libre3->Juggluco auf „Sync“ und in Juggluco->Mirror auf die Schaltflächen „Sync“ und „Reinit“.
 - Es ist möglich, dass du manchmal, nachdem du alles konfiguriert hast, das Stoppen vom Libre3 erzwingen und neu starten musst.
-- Warten einige Zeit oder versuche, Juggluco zu schließen
+- Warte einige Zeit oder versuche, Juggluco zu schließen
 - Ältere Versionen von Juggluco (unter 2.9.6) senden keine nachträglichen Daten vom Libre3-Sensor an verbundene Geräte (z. B. Juggluco auf WearOS). Es ist möglich, dass du in der gepatchten Libre3 app auf „Resend data“ klicken musst (Juggluco Menü).
 
 ### Weitere Hilfe
