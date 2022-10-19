@@ -51,7 +51,7 @@ Wenn du fertig bist, klicke auf "Speichern", um deine Einstellungen zu bestätig
 
 ## Schritt 3: Juggluco einrichten
 
-Lade die [Juggluco-App von GooglePlay](https://play.google.com/store/apps/details?id=tk.glucodata\&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) herunter und installiere sie.
+Lade die Juggluco App [hier](../../versions/latest/Juggluco.apk?raw=1) oder [hier](https://apkfab.com/juggluco/tk.glucodata/apk?h=1fc401ff9fbe7f56e6a0a7068fed6da96592b13757c3b05cddff893d813e18fd) herunter und installiere sie.
 
 Nun öffnen wir die App. Du wirst mit diesem Bildschirm unten begrüßt werden. Klicke einfach auf die Schaltfläche "Without Sensor".
 
