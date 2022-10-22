@@ -38,7 +38,7 @@ Now you should have set up the Libre3 app. Let's continue with the connection to
 
 The schema below is helpful with understanding how to configure ip and port settings on next steps.
 
-![Libre Juggluco setup](../images/schema.jpg)
+![Libre Juggluco setup](../images/juggluco-schema.jpg)
 
 Open the Libre3 sidebar and select Juggluco. Any existing connections here could be deteted. After, you should create a new one.
 
