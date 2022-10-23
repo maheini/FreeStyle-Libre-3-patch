@@ -40,7 +40,7 @@ The schema below is helpful with understanding how to configure ip and port sett
 
 ![Libre Juggluco setup](../images/juggluco-schema.jpg)
 
-Open the Libre3 sidebar and select Juggluco. Any existing connections here could be deteted.
+Open the Libre3 sidebar and select Juggluco. Any existing connections here could be detected.
 
 ![Juggluco menu](../images/step_5.jpg)
 
