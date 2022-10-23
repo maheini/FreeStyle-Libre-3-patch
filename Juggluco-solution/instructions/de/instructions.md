@@ -9,6 +9,7 @@ Der Sensor kann im Bereich von -40 mg/dl bis +20 mg/dl (-2,2 mmol/l bis +1,1 mmo
 - Es ist derzeit nicht bestätigt, ob diese Lösung mit der US-Version der Freestyle Libre 3 Sensoren funktioniert!
 - Die App funktioniert nur auf arm64 Systemen (64 Bit Systeme). Die meisten modernen Handys werden unterstützt. Wenn du unsicher bist, installiere einfach den Patch und versuch, die App zu starten.
 - Wenn du ein gerootetes System hast, musst du diesen verstecken. Hier findest du eine Anleitung: [Link](https://www.reddit.com/r/Freestylelibre/comments/s22vlr/comment/hw2p4th/?utm_source=share\&utm_medium=web2x\&context=3).
+  (Um herauszufinden, ob das Smartphone gerootet ist, gibt es mehrere Apps, eine davon ist z.B. https://root-checker.org/)
 - Juggluco (erforderliche App zum Empfang der Libre3-Messwerte) unterstützt nur die Sprachen Englisch, Niederländisch und Italienisch. Die gepatchte Libre3-App unterstützt: ar, de, es, fr, hi, in, it, ja, ko, my, nl, pt, ru, th, tr und vi.
 
 ## Schritt 1: Herunterladen und Einrichten der gepatchten LibreLink-App
