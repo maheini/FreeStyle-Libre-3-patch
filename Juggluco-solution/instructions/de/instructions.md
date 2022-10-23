@@ -34,9 +34,13 @@ Wenn du ein Popup mit der Frage "Batterieoptimierung ignorieren?" erhältst, kli
 
 Nun sollte die Libre3-App eingerichtet sein. Fahren wir nun mit der Verbindung zu Juggluco fort
 
-## Schritt 2: Verbinde Libre3 mit Juggluco
+## Schritt 2: Erstelle eine Verbindung von Libre 3 zu Juggluco
 
-Öffne die Libre3-Seitenleiste und wähle Juggluco.
+Die Grafik unten ist Hilfreicht beim Verständnis wie die IP und Ports eingestellt werden müssen in den nächsten Schritten.
+
+![Libre Juggluco setup](../images/juggluco-schema.jpg)
+
+Öffne das Libre 3 Seitenmenu und wähle Juggluco aus. Hier werden bestehende Verbindungen angezeigt.
 
 ![Juggluco-Menü](../images/step\_5.jpg)
 
@@ -82,9 +86,7 @@ Gib nun alle Einstellungen wie unten gezeigt und sowie das Passwort entsprechend
 
 ![Juggluco-Verbindungseinstellungen](../images/step\_14.jpg)
 
-Gut gemacht! Du kkannst nun versuchen, die Schaltfläche "Sync" im vorherigen Menü zu drücken. Nach einiger Zeit sollte Juggluco die Blutzuckerwerte automatisch von der Libre3-App erhalten.
-
-Starte nun den Libre3-Sensor mit der gepatchten App, indem du den Sensor einfach scannst. Stelle  sicher, dass alle Einstellungen richtig sind. Du kannst einen Sensor verwenden, der bereits mit der ursprünglichen Libre3-App verwendet wurde, wenn du denselben LibreView-Kontonamen verwendest. Drücke auf "Neuen Sensor starten" und scanne den Sensor. Wenn du zur ungepatchten Libre3-App zurückkehren möchtest, musst du dasselbe tun.
+Gut gemacht!
 
 Notwendige Einstellungen für einen erfolgreichen Sensorstart:
 
@@ -96,12 +98,17 @@ Notwendige Einstellungen für einen erfolgreichen Sensorstart:
 
 Bitte beachte, dass der Ortungsdienst eine zentrale Einstellung ist. Es handelt sich nicht um die Standortberechtigung der App, die ebenfalls eingestellt werden muss!
 
+Starte nun den Libre3-Sensor mit der gepatchten App, indem du den Sensor einfach scannst. Stelle  sicher, dass alle Einstellungen richtig sind. Du kannst einen Sensor verwenden, der bereits mit der ursprünglichen Libre3-App verwendet wurde, wenn du denselben LibreView-Kontonamen verwendest. Drücke auf "Neuen Sensor starten" und scanne den Sensor. Wenn du zur ungepatchten Libre3-App zurückkehren möchtest, musst du dasselbe tun.
+
+Du kkannst nun versuchen, die Schaltfläche "Sync" im vorherigen Menü zu drücken. Nach einiger Zeit (bis zu 15-20 Minuten) sollte Juggluco die Blutzuckerwerte automatisch von der Libre3-App erhalten. Wenn dies nicht der Fall ist, dann versuch das Smartphone neu zu starten und Juggluco zu öffnen. Wische auf der Grafik nach link und rechts um zu prüfen ob ein Wert empfangen wird. Stelle sicher dass Juggluco die Werte empfängt, bevor du mit dem nächsten Schritt weiterfährst.
+
 ## Schritt 4 (optional): xDrip einrichten
 
 Die Blutzuckerwerte werden von der xDrip+ App auf dem Smartphone empfangen.
 
 - Falls noch nicht eingerichtet, lade die xDrip+ App herunter und installiere einen der neuesten Nightly Builds von [hier](https://github.com/NightscoutFoundation/xDrip/releases).
 - In xDrip+ wähle "Libre2 (gepatchte App)" als Datenquelle
+- Batterieoptimierung deaktivieren und Hintergrundaktivität für die xDrip+ App zulassen
 - Falls nötig, gib unter Less Common Settings->Extra Logging Settings->Extra tags for logging "BgReading:d,xdrip libre_receiver:v" ein. Dadurch werden zusätzliche Fehlermeldungen für die Fehlersuche protokolliert.
 - Geh in xDrip+ auf Einstellungen -> Interapp-Kompatibilität -> Daten lokal übertragen und wähle EIN.
 - Geh in xDrip+ zu Einstellungen -> Interapp-Kompatibilität -> Behandlungen akzeptieren und wähle AUS.
@@ -110,9 +117,9 @@ Die Blutzuckerwerte werden von der xDrip+ App auf dem Smartphone empfangen.
 
 ## Schritt 5 (optional): Sensor in xDrip starten
 
-Starte den Sensor in xDrip mit "Start Sensor" und "nicht heute".
+Starte den Sensor in xDrip+ mit „Sensor starten“ und „nicht heute“. Es ist nicht notwendig, das Smartphone an den Sensor zu halten. Tatsächlich wird „Sensor starten“ den Libre 3-Sensor physisch starten oder mit ihm interagieren. Dies dient dazu, xDrip+ zu signalisieren, dass ein neuer Sensor Blutzuckerwerte liefert. Gib, falls vorhanden, zwei blutige Messwerte für die Erstkalibrierung ein. Jetzt sollten die Blutzuckerwerte alle 5 Minuten in xDrip+ angezeigt werden. Verpasste Werte, z. weil du zu weit von deinem Telefon entfernt warst, werden nicht nachgefüllt.
 
-Dieser Schritt startet keinen Libre2-Sensor oder interagiert in irgendeiner Weise mit ihm. Dies dient lediglich dazu, xDrip+ zu signalisieren, dass ein neuer Sensor Blutzuckerwerte liefert. Falls vorhanden, gib zwei blutige Messwerte für die Erstkalibrierung ein. Nun sollten die Blutzuckerwerte alle 5 Minuten in xDrip+ angezeigt werden. Übersprungene Werte, z.B. weil du zu weit von deinem Telefon entfernt warst, werden nicht nachgetragen.
+Warte mindestens 15-20 Minuten, wenn keine Daten empfangen werden.
 
 Nach einem Sensorwechsel wird xDrip+ den neuen Sensor automatisch erkennen und alle Kalibrierungsdaten löschen. Du kannst deine blutig gemessenen Werte nach der Aktivierung überprüfen und eine neue Erstkalibrierung vornehmen.
 
