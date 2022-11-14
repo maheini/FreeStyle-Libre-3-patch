@@ -7,7 +7,7 @@ Der Sensor kann im Bereich von -40 mg/dl bis +20 mg/dl (-2,2 mmol/l bis +1,1 mmo
 ### Derzeitige Einschränkungen
 
 - Es ist derzeit nicht bestätigt, ob diese Lösung mit der US-Version der Freestyle Libre 3 Sensoren funktioniert!
-- Die App funktioniert nur auf arm64 Systemen (64 Bit Systeme). Die meisten modernen Handys werden unterstützt. Wenn du unsicher bist, installiere einfach den Patch und versuch, die App zu starten.
+- Die App funktioniert nur auf arm64 Systemen (64 Bit Systeme). Die meisten modernen Handys werden unterstützt. Wenn du unsicher bist, installiere einfach den Patch und versuche, die App zu starten.
 - Wenn du ein gerootetes System hast, musst du diesen verstecken. Hier findest du eine Anleitung: [Link](https://www.reddit.com/r/Freestylelibre/comments/s22vlr/comment/hw2p4th/?utm_source=share\&utm_medium=web2x\&context=3).
   (Um herauszufinden, ob das Smartphone gerootet ist, gibt es mehrere Apps, eine davon ist z.B. https://root-checker.org/)
 - Juggluco (erforderliche App zum Empfang der Libre3-Messwerte) unterstützt nur die Sprachen Englisch, Niederländisch und Italienisch. Die gepatchte Libre3-App unterstützt: ar, de, es, fr, hi, in, it, ja, ko, my, nl, pt, ru, th, tr und vi.
@@ -20,7 +20,7 @@ Nachdem du die App erfolgreich auf deinem Handy installiert haben, öffne die Ap
 
 ![LibreLink-Warnung](../images/step\_1.jpg)
 
-Wenn du auf dem Bildschirm "Create an Account" bist, hast du die Möglichkeit, ein LibreView-Konto zu erstellen. Dies kann eine gute Option sein, da du so die Möglichkeit hast, einen Sensor mit einer anderen App erneut zu aktivieren. Außerdem können damit die BZ-Daten an LibreView weitergegeben werden. Wenn du das nicht möchtest, klick einfach oben rechts auf "Überspringen".
+Wenn du auf dem Bildschirm "Create an Account" bist, hast du die Möglichkeit, ein LibreView-Konto zu erstellen. Dies kann eine gute Option sein, da du so die Möglichkeit hast, einen Sensor mit einer anderen App erneut zu aktivieren. Außerdem können damit die BZ-Daten an LibreView weitergegeben werden. Wenn du das nicht möchtest, klicke einfach oben rechts auf "Überspringen".
 
 ![LibreView-Konto](../images/step\_2.jpg)
 
@@ -36,7 +36,7 @@ Nun sollte die Libre3-App eingerichtet sein. Fahren wir nun mit der Verbindung z
 
 ## Schritt 2: Erstelle eine Verbindung von Libre 3 zu Juggluco
 
-Die Grafik unten ist Hilfreicht beim Verständnis wie die IP und Ports eingestellt werden müssen in den nächsten Schritten.
+Die Grafik unten ist hilfreich beim Verständnis wie die IP und Ports eingestellt werden müssen in den nächsten Schritten.
 
 ![Libre Juggluco setup](../images/juggluco-schema.jpg)
 
@@ -66,7 +66,7 @@ Danach erhalten wir einen kurzen Einführungstext. Klicke auf "OK".
 
 ![Juggluco-Installationsbildschirm](../images/step\_9.jpg)
 
-Ok, lass uns Juggluco einrichten! Die App selbst hat nicht die beste Oberfläche, aber sie ist sehr nützlich. Um die Einstellungen zu öffnen, klicke auf eine beliebige Stelle auf dem Bildschirm oben links. Nun solltest du das folgende Menü sehen. Wählen "Settings".
+Ok, lass uns Juggluco einrichten! Die App selbst hat nicht die beste Oberfläche, aber sie ist sehr nützlich. Um die Einstellungen zu öffnen, klicke auf eine beliebige Stelle auf dem Bildschirm oben links. Nun solltest du das folgende Menü sehen. Wähle "Settings".
 
 ![Juggluco-Einstellungen-Menü](../images/step\_10.jpg)
 
@@ -78,11 +78,11 @@ Drücke in der Juggluco-App auf die obere linke Mitte. Es sollte sich ein neues 
 
 ![Juggluco-Verbindungsmenü](../images/step\_12.jpg)
 
-Du solltest diesen Bildschirm sehen. Überprüfe die Port-Einstellungen in der oberen rechten Ecke, die auf "8795" eingestellt sein sollten, und tippe anschließend auf "Verbindung hinzufügen". (Beachte, dass innerhalb der Juggluco-App die Ports umgekehrt sind)
+Du solltest diesen Bildschirm sehen. Überprüfe die Port-Einstellungen in der oberen rechten Ecke, die auf "8795" eingestellt sein sollten, und tippe anschließend auf "Verbindung hinzufügen". (Beachte, dass innerhalb der Juggluco-App die Ports umgekehrt sind.)
 
 ![Juggluco-Verbindungsbildschirm](../images/step\_13.jpg)
 
-Gib nun alle Einstellungen wie unten gezeigt und sowie das Passwort entsprechend dem Libre3-Passwort ein. Wenn du das getan hast, drücke "Speichern", um zu bestätigen.
+Gib nun alle Einstellungen wie unten gezeigt sowie das Passwort entsprechend dem Libre3-Passwort ein. Wenn du das getan hast, drücke "Speichern", um zu bestätigen.
 
 ![Juggluco-Verbindungseinstellungen](../images/step\_14.jpg)
 
@@ -100,7 +100,7 @@ Bitte beachte, dass der Ortungsdienst eine zentrale Einstellung ist. Es handelt 
 
 Starte nun den Libre3-Sensor mit der gepatchten App, indem du den Sensor einfach scannst. Stelle  sicher, dass alle Einstellungen richtig sind. Du kannst einen Sensor verwenden, der bereits mit der ursprünglichen Libre3-App verwendet wurde, wenn du denselben LibreView-Kontonamen verwendest. Drücke auf "Neuen Sensor starten" und scanne den Sensor. Wenn du zur ungepatchten Libre3-App zurückkehren möchtest, musst du dasselbe tun.
 
-Du kkannst nun versuchen, die Schaltfläche "Sync" im vorherigen Menü zu drücken. Nach einiger Zeit (bis zu 15-20 Minuten) sollte Juggluco die Blutzuckerwerte automatisch von der Libre3-App erhalten. Wenn dies nicht der Fall ist, dann versuch das Smartphone neu zu starten und Juggluco zu öffnen. Wische auf der Grafik nach link und rechts um zu prüfen ob ein Wert empfangen wird. Stelle sicher dass Juggluco die Werte empfängt, bevor du mit dem nächsten Schritt weiterfährst.
+Du kannst nun versuchen, die Schaltfläche "Sync" im vorherigen Menü zu drücken. Nach einiger Zeit (bis zu 15-20 Minuten) sollte Juggluco die Blutzuckerwerte automatisch von der Libre3-App erhalten. Wenn dies nicht der Fall ist, dann versuch das Smartphone neu zu starten und Juggluco zu öffnen. Wische auf der Grafik nach link und rechts um zu prüfen ob ein Wert empfangen wird. Stelle sicher dass Juggluco die Werte empfängt, bevor du mit dem nächsten Schritt weiterfährst.
 
 ## Schritt 4 (optional): xDrip einrichten
 
@@ -117,7 +117,7 @@ Die Blutzuckerwerte werden von der xDrip+ App auf dem Smartphone empfangen.
 
 ## Schritt 5 (optional): Sensor in xDrip starten
 
-Starte den Sensor in xDrip+ mit „Sensor starten“ und „nicht heute“. Es ist nicht notwendig, das Smartphone an den Sensor zu halten. Tatsächlich wird „Sensor starten“ den Libre 3-Sensor physisch starten oder mit ihm interagieren. Dies dient dazu, xDrip+ zu signalisieren, dass ein neuer Sensor Blutzuckerwerte liefert. Gib, falls vorhanden, zwei blutige Messwerte für die Erstkalibrierung ein. Jetzt sollten die Blutzuckerwerte alle 5 Minuten in xDrip+ angezeigt werden. Verpasste Werte, z. weil du zu weit von deinem Telefon entfernt warst, werden nicht nachgefüllt.
+Starte den Sensor in xDrip+ mit „Sensor starten“ und „nicht heute“. Es ist nicht notwendig, das Smartphone an den Sensor zu halten. Tatsächlich wird „Sensor starten“ den Libre 3-Sensor physisch starten oder mit ihm interagieren. Dies dient dazu, xDrip+ zu signalisieren, dass ein neuer Sensor Blutzuckerwerte liefert. Gib, falls vorhanden, zwei blutige Messwerte für die Erstkalibrierung ein. Jetzt sollten die Blutzuckerwerte alle 5 Minuten in xDrip+ angezeigt werden. Verpasste Werte, z. B. weil du zu weit von deinem Telefon entfernt warst, werden nicht nachgefüllt.
 
 Warte mindestens 15-20 Minuten, wenn keine Daten empfangen werden.
 
