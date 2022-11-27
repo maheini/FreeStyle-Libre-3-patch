@@ -52,7 +52,7 @@ Now, fill in everything, according to the image below:
 
 ![Libre Juggluco setup](../images/step_7.jpg)
 
-It you are done, click on "Save" to confirm your settings. New connection is created to Juggluco app listening on port 8795. Other existing connections could be deleted.
+If you are done, click on "Save" to confirm your settings. New connection is created to Juggluco app listening on port 8795. Other existing connections could be deleted.
 
 Awesome, you can close the Libre3 app now!
 
