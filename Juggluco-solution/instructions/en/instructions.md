@@ -40,7 +40,7 @@ The schema below is helpful with understanding how to configure ip and port sett
 
 ![Libre Juggluco setup](../images/juggluco-schema.jpg)
 
-Open the Libre3 sidebar and select Juggluco. Any existing connections here could be detected.
+Open the Libre3 sidebar and select Juggluco. 
 
 ![Juggluco menu](../images/step_5.jpg)
 
@@ -52,7 +52,9 @@ Now, fill in everything, according to the image below:
 
 ![Libre Juggluco setup](../images/step_7.jpg)
 
-It you are done, click on "Save" to confirm your setttings. Awesome, you can close the Libre3 app now!
+If you are done, click on "Save" to confirm your settings. New connection is created to Juggluco app listening on port 8795. Other existing connections could be deleted.
+
+Awesome, you can close the Libre3 app now!
 
 ## Step 3: Setup Juggluco
 
@@ -78,7 +80,7 @@ Press on the top left center within the Juggluco app. A new menu should pop up. 
 
 ![Juggluco connection menu](../images/step_12.jpg)
 
-You should see this screen. Please check the port settings on the top right corner, which should be set to "8795" and after that, tap on "Add Connection". (Keep in mind, within the Juggluco app the ports are switched)
+You should see this screen. Please check the port settings on the top right corner, which should be set to "8795" (listenig port) and after that, tap on "Add Connection". (Keep in mind, within the Juggluco app the ports are switched)
 
 ![Juggluco connection screen](../images/step_13.jpg)
 
@@ -86,7 +88,7 @@ Now let's fill in all the settings as shown below and your password according to
 
 ![Juggluco connection settings](../images/step_14.jpg)
 
-Well done!
+Well done! You have created connection to LibreLink app, listening on port 7117.
 
 ### Sensor start with Libre 3 app
 
