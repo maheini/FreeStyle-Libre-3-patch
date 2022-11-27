@@ -88,7 +88,7 @@ Now let's fill in all the settings as shown below and your password according to
 
 ![Juggluco connection settings](../images/step_14.jpg)
 
-Well done! You have created connection to LibreLink app, listening on port 7117
+Well done! You have created connection to LibreLink app, listening on port 7117.
 
 ### Sensor start with Libre 3 app
 
