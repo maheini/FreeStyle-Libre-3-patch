@@ -19,7 +19,15 @@ Installiere die Libre 3 App aus dem Playstore und öffne diese. Auf dem Startbil
 
 Anschliessend musst du die Nutzerbedingungen von Abbott akzeptieren. Die letzte ist dabei Optional und kann auch abgelehnt werden.
 
-![LibreLink Term](../images/4.jpg) ![LibreLink Term](../images/5.jpg) ![LibreLink Term](../images/6.jpg)
+![Libre 3 Term](../images/4.jpg) ![Libre 3 Term](../images/5.jpg) ![Libre 3 Term](../images/6.jpg)
+
+Stelle die App nun Schritt für Schritt nach deinen Bedürfnissen ein. Falls diese Meldung zur Akku-optimierung auftauchen, dann klicke auf "Erlauben".
+
+![Libre 3 Akkuoptimierung](../images/10.jpg)
+
+Nachdem du die Libre 3 App eingerichtet hast, darfst du bereits deinen ersten Sensor aktivieren. Scanne dazu wie gezeigt den Sensor und warte die 60 Minuten aufwärmphase vom Sensor ab.
+
+![Libre 3 Sensor aktivieren](../images/12.jpg)
 
 
 Wenn du auf dem Bildschirm "Create an Account" bist, hast du die Möglichkeit, ein LibreView-Konto zu erstellen. Dies kann eine gute Option sein, da du so die Möglichkeit hast, einen Sensor mit einer anderen App erneut zu aktivieren. Außerdem können damit die BZ-Daten an LibreView weitergegeben werden. Wenn du das nicht möchtest, klicke einfach oben rechts auf "Überspringen".
