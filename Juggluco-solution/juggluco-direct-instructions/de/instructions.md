@@ -17,6 +17,10 @@ Installiere die Libre 3 App aus dem Playstore und öffne diese. Auf dem Startbil
 
 ![Libre3 Startbildschirm](../images/1.jpg) ![LibreLink Anmeldung](../images/2.jpg)
 
+Anschliessend musst du die Nutzerbedingungen von Abbott akzeptieren. Die letzte ist dabei Optional und kann auch abgelehnt werden.
+
+![LibreLink Term](../images/4.jpg) ![LibreLink Term](../images/5.jpg) ![LibreLink Term](../images/6.jpg)
+
 
 Wenn du auf dem Bildschirm "Create an Account" bist, hast du die Möglichkeit, ein LibreView-Konto zu erstellen. Dies kann eine gute Option sein, da du so die Möglichkeit hast, einen Sensor mit einer anderen App erneut zu aktivieren. Außerdem können damit die BZ-Daten an LibreView weitergegeben werden. Wenn du das nicht möchtest, klicke einfach oben rechts auf "Überspringen".
 
