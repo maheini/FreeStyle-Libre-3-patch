@@ -29,14 +29,15 @@ Nachdem du die Libre 3 App eingerichtet hast, darfst du bereits deinen ersten Se
 
 ![Libre 3 Sensor aktivieren](../images/12.jpg)
 
+## Schritt 2: Libre 3 App beenden
 
-Wenn du auf dem Bildschirm "Create an Account" bist, hast du die Möglichkeit, ein LibreView-Konto zu erstellen. Dies kann eine gute Option sein, da du so die Möglichkeit hast, einen Sensor mit einer anderen App erneut zu aktivieren. Außerdem können damit die BZ-Daten an LibreView weitergegeben werden. Wenn du das nicht möchtest, klicke einfach oben rechts auf "Überspringen".
+Nachdem der Sensor erfolgreich gestartet ist und der erste Sensorwert sichtbar ist, kann es weitergehen. Öffne nun die Einstellungen und öffne die Einstellungen für "Apps".
 
-![LibreView-Konto](../images/step\_2.jpg)
+![Einstellungen Apps](../images/13.jpg)
 
-Bitte wähle auf diesem Bildschirm deine Messeinheit aus. Das kann auch später noch geändert werden.
+Anschliessend suchst du nach der Libre 3 App. Hast du diese gefunden, klickst du diese an.
 
-![Auswahl der Maßeinheit](../images/step\_3.jpg)
+![Libre 3 App Einstellungen](../images/14.jpg)
 
 Wenn du ein Popup mit der Frage "Batterieoptimierung ignorieren?" erhältst, klicke auf "ERLAUBEN". Dadurch wird die Libre3-App im Hintergrund weiterlaufen.
 
