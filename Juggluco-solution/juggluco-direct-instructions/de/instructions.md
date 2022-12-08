@@ -11,13 +11,11 @@ Der Sensor kann im Bereich von -40 mg/dl bis +20 mg/dl (-2,2 mmol/l bis +1,1 mmo
   (Um herauszufinden, ob das Smartphone gerootet ist, gibt es mehrere Apps, eine davon ist z.B. [root-checker.org](https://root-checker.org/))
 - Die Juggluco App unterstützt nur die Sprachen Englisch, Niederländisch und Italienisch.
 
-## Schritt 1: Herunterladen und Einrichten der gepatchten LibreLink-App
+## Schritt 1: Herunterladen und Einrichten der Libre3 App
 
-Lade die gepatchte .apk-Datei [hier](../../versions/latest/Libre-3-patch.apk?raw=1) oder [hier](***REMOVED***) herunter und installiere sie auf deinem Handy.
+Installiere die Libre 3 App aus dem Playstore und öffne diese. Auf dem Startbildschirm klickst du auf "Anmelden". Die Anmeldung mit deinem LibreLink Account ist zwingend notwendig - solltest du keinen haben, kannst du dir einen erstellen.
 
-Nachdem du die App erfolgreich auf deinem Handy installiert haben, öffne die App. Wenn du eine Warnung wie die unten stehende siehst, kannst du diese ignorieren. (Die App funktioniert mit jedem EU-Sensor).
-
-![LibreLink-Warnung](../images/step\_1.jpg)
+![LibreLink-Start](../images/1.jpg)
 
 Wenn du auf dem Bildschirm "Create an Account" bist, hast du die Möglichkeit, ein LibreView-Konto zu erstellen. Dies kann eine gute Option sein, da du so die Möglichkeit hast, einen Sensor mit einer anderen App erneut zu aktivieren. Außerdem können damit die BZ-Daten an LibreView weitergegeben werden. Wenn du das nicht möchtest, klicke einfach oben rechts auf "Überspringen".
 
