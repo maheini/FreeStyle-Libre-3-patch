@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="README.de-de.md"><img  alt="DE" src="https://user-images.githubusercontent.com/65506676/190851702-b2699677-462a-4a5a-b23e-efb1cad56890.png" width="18px" /> Readme auf Deutsch</a>
 
-Öffentliche Repo um Entwicklungen vom Libre 3 voranzutreiben. Diese Repo ist für den Informationsaustausch über den Libre 3 gedacht. Mögliche Ziele sind die Entschlüsselung und die Erstellung einer Schnittstelle für Xdrip.
+Öffentliche Repo um die Entwicklungen von Libre 3 Schnittstellen zu Apps wie xDrip+ oder AndroidAPS voranzutreiben. Diese Repo ist für den Informationsaustausch über aktuelle Lösungen sowie den Libre 3 gedacht.
 
 ## Disclaimer
 
@@ -12,9 +12,7 @@ Der Gebrauch von Informationen und der App von github.com ist auf eigenes Risiko
 
 ## Juggluco Lösung
 
-Ein grosses Dankeschön an [jkaltes](http://jkaltes.byethost16.com/) für all die Arbeit. Mit dem [neuen FSTL3 patch](http://jkaltes.byethost16.com/Juggluco/libre3/) gibt es endlich eine finale offline Möglichkeit, die keinen Root-Zugriff erfordert und vollständig in Xdrip integriert ist. Eine ausführliche Anleitung findest du hier: [Anleitung Libre3 patch mit Juggluco](./Juggluco-solution/instructions/de/instructions.md). Oder du benutzt den [Download link](./Juggluco-solution/versions/latest/Libre-3-patch.apk?raw=1). Bitte beachten: Das ganze ist auf eigenes Risiko und ohne jegliche Art von Garantie oder Unterstützung. Dieses Projekt hat keine Zusammenarbeit und wird nicht empfohlen von Abbott.
-
-Info: Ich war nicht persönlich beteiligt bei der Entwicklung von Juggluco und dem finalen Libre 3 Patch, aber ich teile all diese Entwicklungsarbeiten sehr gerne mit euch.
+Ein grosses Dankeschön an [jkaltes](http://jkaltes.byethost16.com/) für all die Arbeit. Mit der Juggluco App ist es möglich, den Libre 3 Sensor offline und ohne Root mit Xdrip, AndroidAPS etc. zu verbinden. Eine ausführliche Anleitung findest du hier: [Anleitung Libre3 patch mit Juggluco](./Juggluco-solution/juggluco-direct-instructions/de/instructions.md). Oder du benutzt den [Download link](./Juggluco-solution/versions/latest/Juggluco.apk?raw=1). Bitte beachten: Das ganze ist auf eigenes Risiko und ohne jegliche Art von Garantie oder Unterstützung. Dieses Projekt hat keine Zusammenarbeit und wird nicht empfohlen von Abbott.
 
 ## Andere Lösungen für FSL 3 (benötigen Root oder Internetverbindung)
 
@@ -28,14 +26,10 @@ Info: Ich war nicht persönlich beteiligt bei der Entwicklung von Juggluco und d
 
 ## Aktueller Stand
 
-Die Entschlüsselung wurde soeben geknackt :smiley:. Es gibt nun eine finale Lösung für un-gerootete Geräte, funktionierend mit Android & Xdrip.
+Die Entschlüsselung wurde erfolgreich geknackt :smiley:. Es gibt nun eine finale Lösung für un-gerootete Geräte, funktionierend mit Android & Xdrip.
 
 ## So kannst du mithelfen
 
 Wenn du irgendeine nützliche Information hast über den Libre 3, dann teile diese im [Diskussions-tab](https://github.com/maheini/FreeStyle-Libre-3-patch/discussions).
-
-## Verschlüsselungs-Infos
-
-Die folgenden Dinge sind über die Libre 3 App bekannt: Nach dem Start prüft die App, ob irgendwelche Änderungen vorgenommen wurden. WhiteCryption code protection wird hier benutzt.
 
 ### #WeAreNotWaiting
