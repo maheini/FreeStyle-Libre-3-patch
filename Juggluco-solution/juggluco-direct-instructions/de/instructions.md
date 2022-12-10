@@ -23,7 +23,7 @@ Anschliessend musst du die Nutzerbedingungen von Abbott akzeptieren. Die letzte 
 
 ![Libre 3 Term](../images/4.jpg) ![Libre 3 Term](../images/5.jpg) ![Libre 3 Term](../images/6.jpg)
 
-Stelle die App nun Schritt für Schritt nach deinen Bedürfnissen ein. Falls diese Meldung zur Deaktivierung der Akku-optimierung auftauchen, dann klicke auf "Erlauben".
+Stelle die App nun Schritt für Schritt nach deinen Bedürfnissen ein. Falls diese Meldung zur Deaktivierung der Akku-optimierung auftaucht, dann klicke auf "Erlauben".
 
 ![Libre 3 Akkuoptimierung](../images/10.jpg)
 
