@@ -39,13 +39,13 @@ Anschliessend suchst du nach der Libre 3 App. Hast du diese gefunden, klickst du
 
 ![Libre 3 App Einstellungen](../images/14.jpg)
 
-Wenn du ein Popup mit der Frage "Batterieoptimierung ignorieren?" erhältst, klicke auf "ERLAUBEN". Dadurch wird die Libre3-App im Hintergrund weiterlaufen.
+Nun klickst du auf "Stoppen" oder "Beenden erzwingen". Der genaue Button kann je nach Android version variieren.
 
-![Akku-Optimierung deaktivieren](../images/step\_4.jpg)
+![Libre 3 beenden](../images/15.jpg)
 
-Nun sollte die Libre3-App eingerichtet sein. Fahren wir nun mit der Verbindung zu Juggluco fort
+Sollte eine weitere Nachfrage kommen, kannst du diese mit "OK" bestätigen.
 
-## Schritt 2: Erstelle eine Verbindung von Libre 3 zu Juggluco
+![Libre 3 beenden](../images/16.jpg)
 
 Die Grafik unten ist hilfreich beim Verständnis wie die IP und Ports eingestellt werden müssen in den nächsten Schritten.
 
