@@ -2,7 +2,7 @@
 
 <a href="README.md"><img alt="EN" src="https://user-images.githubusercontent.com/65506676/190852356-073bf576-6e3a-45f3-a658-be1c4a8d7286.png" width="18px" /> Readme in English</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="README.de-de.md"><img  alt="DE" src="https://user-images.githubusercontent.com/65506676/190851702-b2699677-462a-4a5a-b23e-efb1cad56890.png" width="18px" /> Readme auf Deutsch</a>
+<a href="README.de.md"><img  alt="DE" src="https://user-images.githubusercontent.com/65506676/190851702-b2699677-462a-4a5a-b23e-efb1cad56890.png" width="18px" /> Readme auf Deutsch</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="README.es.md"><img alt="ES" src="https://user-images.githubusercontent.com/65506676/194781638-ef763678-e823-4e1d-a5c6-8f616c7a8cdb.jpg" width="18px" /> Léame en alemán</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
