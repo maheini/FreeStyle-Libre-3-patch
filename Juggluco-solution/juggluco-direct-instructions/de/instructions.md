@@ -1,5 +1,7 @@
 # Freestyle Libre 3 Anleitung
 
+## Informationen
+
 Das Freestyle Libre 3 System kann automatisch gefährliche Blutzuckerwerte melden. Der Libre3 Sensor sendet jede Minute den aktuellen Blutzuckerwert an einen Empfänger (Lesegerät oder Smartphone). Der Empfänger löst bei Bedarf einen Alarm aus. Mit Hilfe der Juggluco App kann der Sensor nach derm Start übernommen werden und mit Xdrip+ oder AndroidAPS verbunden werden. So können die Blutzuckerwerte direkt übertragen werden. Es ist sogar möglich, ältere Daten aus dem Speicher des Sensors zu empfangen (zwei Stunden minütliche Glukose und zwei Wochen einmal pro 5 Minuten Verlaufsdaten), die an Juggluco gesendet werden.
 
 Der Sensor kann im Bereich von -40 mg/dl bis +20 mg/dl (-2,2 mmol/l bis +1,1 mmol/l) kalibriert werden, um Unterschiede zwischen der blutigen Messung und den Sensormessungen auszugleichen.
@@ -86,6 +88,8 @@ Im nächsten Fenster musst du deine Anmeldedaten für Libreview eingeben. Es mus
 
 Falls alles geklappt hat, sollte nun eine mehrstellige Nummer unter dem "Resend data" Button ersichtlich sein. Dieser Vorgang kann etwas dauern - sollte die Nummer dennoch nicht erscheinen, so prüfe deine Internetverbindung und versuch die vorherigen Schritte nochmals.
 
+Hinweis: Falls die Blutzuckerwerte auf Libreview hochgeladen werden sollen, kann der Kontrollkasten "Send to Libreview" aktiviert werden.
+
 ![Libreview prüfen](../images/24.jpg)
 
 Nun ist es Zeit den Sensor erneut zu starten! Gehe auf den Juggluco Startbildschirm zurück und Scanne deinen bereits aktivierten Sensor. Der Sensor wird gestartet und beginnt unter Umständen erneut eine 60 minütige Aufwärmphase. Nach den 60 Minuten sollten die Werte auf dem Juggluco Startbildschirm ersichtlich werden.
@@ -99,7 +103,7 @@ Fertig, das wars! Sollten die Werte nicht ersichtlich sein, dann findest du mehr
 Die Blutzuckerwerte werden von der xDrip+ App auf dem Smartphone empfangen.
 
 - Falls noch nicht eingerichtet, lade die xDrip+ App herunter und installiere einen der neuesten Nightly Builds von [hier](https://github.com/NightscoutFoundation/xDrip/releases).
-- In xDrip+ wähle "Libre2 (gepatchte App)" als Datenquelle
+- In xDrip+ wähle "Libre patched" oder "Libre2 (gepatchte App)" als Datenquelle
 - Batterieoptimierung deaktivieren und Hintergrundaktivität für die xDrip+ App zulassen
 - Falls nötig, gib unter Less Common Settings->Extra Logging Settings->Extra tags for logging "BgReading:d,xdrip libre_receiver:v" ein. Dadurch werden zusätzliche Fehlermeldungen für die Fehlersuche protokolliert.
 - Geh in xDrip+ auf Einstellungen -> Interapp-Kompatibilität -> Daten lokal übertragen und wähle EIN.
