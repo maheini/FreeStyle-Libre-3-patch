@@ -13,15 +13,15 @@ Der Sensor kann im Bereich von -40 mg/dl bis +20 mg/dl (-2,2 mmol/l bis +1,1 mmo
 
 ## Schritt 1: Herunterladen und Einrichten der Libre3 App
 
-Installiere die Libre 3 App aus dem Playstore und öffne diese. Auf dem Startbildschirm klickst du auf "Anmelden". Die Anmeldung mit deinem LibreLink Account ist zwingend notwendig - solltest du keinen haben, kannst du dir einen erstellen.
+Installiere die Libre 3 App aus dem Playstore und öffne diese. Auf dem Startbildschirm klickst du auf "Anmelden". Die Anmeldung mit deinem Libreview Account ist zwingend notwendig - solltest du keinen haben, kannst du dir einen erstellen.
 
-![Libre3 Startbildschirm](../images/1.jpg) ![LibreLink Anmeldung](../images/2.jpg)
+![Libre3 Startbildschirm](../images/1.jpg) ![Libreview Anmeldung](../images/2.jpg)
 
 Anschliessend musst du die Nutzerbedingungen von Abbott akzeptieren. Die letzte ist dabei Optional und kann auch abgelehnt werden.
 
 ![Libre 3 Term](../images/4.jpg) ![Libre 3 Term](../images/5.jpg) ![Libre 3 Term](../images/6.jpg)
 
-Stelle die App nun Schritt für Schritt nach deinen Bedürfnissen ein. Falls diese Meldung zur Akku-optimierung auftauchen, dann klicke auf "Erlauben".
+Stelle die App nun Schritt für Schritt nach deinen Bedürfnissen ein. Falls diese Meldung zur Deaktivierung der Akku-optimierung auftauchen, dann klicke auf "Erlauben".
 
 ![Libre 3 Akkuoptimierung](../images/10.jpg)
 
