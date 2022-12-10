@@ -1,8 +1,6 @@
 # FreeStyle Libre 3 patch
 
 <a href="README.md"><img alt="EN" src="https://user-images.githubusercontent.com/65506676/190852356-073bf576-6e3a-45f3-a658-be1c4a8d7286.png" width="18px" /> Readme in English</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="README.de-de.md"><img  alt="DE" src="https://user-images.githubusercontent.com/65506676/190851702-b2699677-462a-4a5a-b23e-efb1cad56890.png" width="18px" /> Readme auf Deutsch</a>
 
 Öffentliche Repo um die Entwicklungen von Libre 3 Schnittstellen zu Apps wie xDrip+ oder AndroidAPS voranzutreiben. Diese Repo ist für den Informationsaustausch über aktuelle Lösungen sowie den Libre 3 gedacht.
 
