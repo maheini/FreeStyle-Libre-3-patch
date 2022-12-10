@@ -124,6 +124,14 @@ Nach einem Sensorwechsel wird xDrip+ den neuen Sensor automatisch erkennen und a
 - In AndroidAPS gehe zu Config Builder -> BG Source und wählen "xDrip+".
 - Wenn AndroidAPS keine Werte empfängt, wenn sich das Telefon im Flugmodus befindet, verwende "Identify receiver".
 
+## Zurück zur originalen Libre 3 App wechseln
+
+Es ist möglich, von Juggluco auf die oroginale Libre 3 App zurück zu wechseln. Folgende Schritte sind notwendig:
+
+1. Libre 3 App neu installieren (Oder Daten löschen in den Einstellungen)
+2. Libre 3 App einrichten mit dem Libreview Konto, mit welchem der Sensor aktiviert wurde.
+3. Sensor in der Libre 3 App Scannen. Anschliessend sollte die 60 minütige Aufwärmphase beginnen. Diese ist nach jedem Wechsel notwendig und kann nicht übersprungen werden.
+
 ## Erfahrungen und Fehlerbehebung
 
 ### Fehlerbehebung Libre3 keine Messwerte
