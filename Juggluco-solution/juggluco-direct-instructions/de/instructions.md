@@ -130,9 +130,20 @@ Es ist möglich, von Juggluco auf die oroginale Libre 3 App zurück zu wechseln.
 
 1. Libre 3 App neu installieren (Oder Daten löschen in den Einstellungen)
 2. Libre 3 App einrichten mit dem Libreview Konto, mit welchem der Sensor aktiviert wurde.
-3. Sensor in der Libre 3 App Scannen. Anschliessend sollte die 60 minütige Aufwärmphase beginnen. Diese ist nach jedem Wechsel notwendig und kann nicht übersprungen werden.
+3. Stoppe die Juggluco App in den Einstellungen, ähnlich wie die Libre 3 App in der Anleitung.
+4. Klicke im Libre 3 Menu auf "Sensor starten", wähle "Ja", "Weiter" und Scanne deinen Sensor.
+5. Anschliessend sollte die 60 minütige Aufwärmphase beginnen. Diese ist nach jedem Wechsel notwendig und kann nicht übersprungen werden.
 
 ## Erfahrungen und Fehlerbehebung
+
+### Notwendige Einstellungen für einen erfolgreichen Sensorstart
+
+- NFC aktiviert / BT aktiviert
+- Speicher- und Standortberechtigung aktiviert
+- Ortungsdienst aktiviert
+- automatische Zeit- und Zeitzoneneinstellung
+
+Bitte beachte, dass der Ortungsdienst eine zentrale Einstellung ist. Es handelt sich nicht um die Standortberechtigung der App, die ebenfalls eingestellt werden muss!
 
 ### Fehlerbehebung Libre3 keine Messwerte
 
@@ -140,14 +151,14 @@ Es ist möglich, von Juggluco auf die oroginale Libre 3 App zurück zu wechseln.
 - automatische Uhrzeit und Zeitzone nicht eingestellt - bitte ändere die Einstellungen entsprechend
 - Bluetooth ist ausgeschaltet - bitte einschalten
 
-### Fehlerbehebung Libre3 -> Juggluco-Verbindung
+### Fehlerbehebung Juggluco keine Messwerte
 
-- Stelle sicher, dass Libre3 die Messwerte empfängt
-- Überprüfe deine Einstellungen und das Passwort erneut
-- Klick im Mene Libre3->Juggluco auf „Sync“ und in Juggluco->Mirror auf die Schaltflächen „Sync“ und „Reinit“.
-- Es ist möglich, dass du manchmal, nachdem du alles konfiguriert hast, das Stoppen vom Libre3 erzwingen und neu starten musst.
-- Warte einige Zeit oder versuche, Juggluco zu schließen
-- Ältere Versionen von Juggluco (unter 2.9.6) senden keine nachträglichen Daten vom Libre3-Sensor an verbundene Geräte (z. B. Juggluco auf WearOS). Es ist möglich, dass du in der gepatchten Libre3 app auf „Resend data“ klicken musst (Juggluco Menü).
+- Prüfe ob die Libre 3 App gestoppt ist.
+- Scanne den Libre 3 Sensor erneut innerhalb der Juggluco App
+- Vergewissere dich, dass der Sensor mit dem aktuellen Libreview Konto aktiviert wurde
+- Prüfe ob eine Sensornummer in Juggluco ersichtlich ist
+- Üblichweise wird der Sensor innerhalb von 3 Minuten mit dem Smartphone verbunden, kann aber auch länger dauern.
+- Kann die Bluetooth Verbindung nicht hergestellt werden, dann versuch einen Neustart vom Smartphone.
 
 ### Weitere Hilfe
 
