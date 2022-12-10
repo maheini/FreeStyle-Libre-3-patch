@@ -47,71 +47,52 @@ Sollte eine weitere Nachfrage kommen, kannst du diese mit "OK" bestätigen.
 
 ![Libre 3 beenden](../images/16.jpg)
 
-Die Grafik unten ist hilfreich beim Verständnis wie die IP und Ports eingestellt werden müssen in den nächsten Schritten.
+## Schritt 3: Juggluco installieren & einrichten
 
-![Libre Juggluco setup](../images/juggluco-schema.jpg)
+Installiere nun die [Juggluco App](https://play.google.com/store/apps/details?id=tk.glucodata) aus dem Playstore (Version 4.0.1 oder höher). Mit hilfe dieser App kann der Blutzuckerwert direkt an Xdrip und AndroidAPS weitergeleitet werden. Dazu wird der aktive Sensor (welcher auf Libreview registriert ist) innerhalb Juggluco weiterverwendet. Dies erklärt auch, weshalb ein Libreview Konto zwingend notwendig ist.
 
-Öffne das Libre 3 Seitenmenu und wähle Juggluco aus. Hier werden bestehende Verbindungen angezeigt.
+Nachdem die Juggluco installiert hast, kann es sein das mehrere Meldungen auftauchen. Erlaube Juggluco, Geräte in der nähe zu finden, lokalisieren und verbinden.
 
-![Juggluco-Menü](../images/step\_5.jpg)
+![Juggluco Verbindungen erlauben](../images/17.jpg)
 
-Stelle im Juggluco-Menü sicher, dass "Port" auf 7117 eingestellt ist und klicke unten auf "Verbindung hinzufügen".
+Auch hier kann eine Nachfrage zur Deaktivierung der Akku-optimierung auftauchen. Klicke auf "Erlauben". Dies ist wichtig, damit die App im Hintergrund weiterläuft.
 
-![Juggluco-Übersicht](../images/step\_6.jpg)
+![Juggluco Akkuoptimierung deaktivieren](../images/18.jpg)
 
-Fülle nun alles aus, wie in der Abbildung unten gezeigt:
+Klicke auf dem Einführung von Juggluco auf "OK".
 
-![Libre Juggluco-Einrichtung](../images/step\_7.jpg)
+![Juggluco Akkuoptimierung deaktivieren](../images/19.jpg)
 
-Wenn du fertig bist, klicke auf "Speichern", um deine Einstellungen zu bestätigen. Toll, jetzt kannst du die Libre3-App schließen!
+Nun siehst du den Juggluco Startbildschirm. Klicke hier in der linken oberen Hälfte ins leere. Die ungefähre Position siehst du hier.
 
-## Schritt 3: Juggluco einrichten
+![Juggluco Menu öffnen](../images/20.jpg)
 
-Lade die Juggluco App [hier](../../versions/latest/Juggluco.apk?raw=1) oder [hier](https://apkfab.com/juggluco/tk.glucodata/apk?h=1fc401ff9fbe7f56e6a0a7068fed6da96592b13757c3b05cddff893d813e18fd) herunter und installiere sie.
+Es öffnet sich ein Menu. Hier kannst du "Settings" auswählen.
 
-Nun öffnen wir die App. Du wirst mit diesem Bildschirm unten begrüßt werden. Klicke einfach auf die Schaltfläche "Without Sensor".
+![Juggluco Menu](../images/21.jpg)
 
-![Juggluco Willkommensbildschirm](../images/step\_8.jpg)
+Anschliessend öffnet sich diese Seite. In der Auswahl "1." hast du die zwei Möglichkeiten:
 
-Danach erhalten wir einen kurzen Einführungstext. Klicke auf "OK".
+1. "Send to xDrip" -> Mit dieser Einstellung werden die Blutzuckerwerte an xDrip weitergeleitet. Dazu muss als Empfänger "Libre patched" oder "Libre 2 patched App" auswählen.
+2. "xDrip broadcast" -> Hiermit werden die minütlichen Blutzuckerwerte direkt an AndroidAPS weitergeleitet. Die Blutzuckerquelle muss dazu auf "xDrip+" eingestellt sein innerhalb AndroidAPS.
 
-![Juggluco-Installationsbildschirm](../images/step\_9.jpg)
+Um den Sensor zu starten, wählst du in der Auswahl "2." den Kontrollkasten "Libreview".
 
-Ok, lass uns Juggluco einrichten! Die App selbst hat nicht die beste Oberfläche, aber sie ist sehr nützlich. Um die Einstellungen zu öffnen, klicke auf eine beliebige Stelle auf dem Bildschirm oben links. Nun solltest du das folgende Menü sehen. Wähle "Settings".
+![Juggluco Einstellungen](../images/22.jpg)
 
-![Juggluco-Einstellungen-Menü](../images/step\_10.jpg)
+Im nächsten Fenster musst du deine Anmeldedaten für Libreview eingeben. Es muss sich um das Konto handeln, mit welchem der Sensor aktiviert wurde. Klicke danach auf "Get Account ID".
 
-In den Einstellungen kannst du die Datenverbindung zu xDrip konfigurieren. Klicke auf "Send to xDrip" und drücke "OK".
+![Libreview verbinden](../images/23.jpg)
 
-![Juggluco-Einstellungen](../images/step\_11.jpg)
+Falls alles geklappt hat, sollte nun eine mehrstellige Nummer unter dem "Resend data" Button ersichtlich sein. Dieser Vorgang kann etwas dauern - sollte die Nummer dennoch nicht erscheinen, so prüfe deine Internetverbindung und versuch die vorherigen Schritte nochmals.
 
-Drücke in der Juggluco-App auf die obere linke Mitte. Es sollte sich ein neues Menü öffnen. Bitte wähle "Mirror".
+![Libreview prüfen](../images/24.jpg)
 
-![Juggluco-Verbindungsmenü](../images/step\_12.jpg)
+Nun ist es Zeit den Sensor erneut zu starten! Gehe auf den Juggluco Startbildschirm zurück und Scanne deinen bereits aktivierten Sensor. Der Sensor wird gestartet und beginnt unter Umständen erneut eine 60 minütige Aufwärmphase. Nach den 60 Minuten sollten die Werte auf dem Juggluco Startbildschirm ersichtlich werden.
 
-Du solltest diesen Bildschirm sehen. Überprüfe die Port-Einstellungen in der oberen rechten Ecke, die auf "8795" eingestellt sein sollten, und tippe anschließend auf "Verbindung hinzufügen". (Beachte, dass innerhalb der Juggluco-App die Ports umgekehrt sind.)
+![Libreview prüfen](../images/25.jpg)
 
-![Juggluco-Verbindungsbildschirm](../images/step\_13.jpg)
-
-Gib nun alle Einstellungen wie unten gezeigt sowie das Passwort entsprechend dem Libre3-Passwort ein. Wenn du das getan hast, drücke "Speichern", um zu bestätigen.
-
-![Juggluco-Verbindungseinstellungen](../images/step\_14.jpg)
-
-Gut gemacht!
-
-Notwendige Einstellungen für einen erfolgreichen Sensorstart:
-
-- NFC aktiviert / BT aktiviert
-- Speicher- und Standortberechtigung aktiviert
-- Ortungsdienst aktiviert
-- automatische Zeit- und Zeitzoneneinstellung
-- Mindestens einen Alarm in der gepatchten App einstellen
-
-Bitte beachte, dass der Ortungsdienst eine zentrale Einstellung ist. Es handelt sich nicht um die Standortberechtigung der App, die ebenfalls eingestellt werden muss!
-
-Starte nun den Libre3-Sensor mit der gepatchten App, indem du den Sensor einfach scannst. Stelle  sicher, dass alle Einstellungen richtig sind. Du kannst einen Sensor verwenden, der bereits mit der ursprünglichen Libre3-App verwendet wurde, wenn du denselben LibreView-Kontonamen verwendest. Drücke auf "Neuen Sensor starten" und scanne den Sensor. Wenn du zur ungepatchten Libre3-App zurückkehren möchtest, musst du dasselbe tun.
-
-Du kannst nun versuchen, die Schaltfläche "Sync" im vorherigen Menü zu drücken. Nach einiger Zeit (bis zu 15-20 Minuten) sollte Juggluco die Blutzuckerwerte automatisch von der Libre3-App erhalten. Wenn dies nicht der Fall ist, dann versuch das Smartphone neu zu starten und Juggluco zu öffnen. Wische auf der Grafik nach link und rechts um zu prüfen ob ein Wert empfangen wird. Stelle sicher dass Juggluco die Werte empfängt, bevor du mit dem nächsten Schritt weiterfährst.
+Fertig, das wars! Sollten die Werte nicht ersichtlich sein, dann findest du mehr Infos im Abschnitt "Erfahrungen und Fehlerbehebung" nach.
 
 ## Schritt 4 (optional): xDrip einrichten
 
