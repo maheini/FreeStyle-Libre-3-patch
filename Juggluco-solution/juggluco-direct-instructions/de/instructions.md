@@ -75,7 +75,7 @@ Es öffnet sich ein Menu. Hier kannst du "Settings" auswählen.
 
 Anschliessend öffnet sich diese Seite. In der Auswahl "1." hast du die zwei Möglichkeiten:
 
-1. "Send to xDrip" -> Mit dieser Einstellung werden die Blutzuckerwerte an xDrip weitergeleitet. Dazu muss als Empfänger "Libre patched" oder "Libre 2 patched App" auswählen.
+1. "Send to xDrip" -> Mit dieser Einstellung werden die Blutzuckerwerte an xDrip weitergeleitet. Dazu muss als Empfänger "Libre2 patched" oder "Libre 2 (patched App)" auswählen.
 2. "xDrip broadcast" -> Hiermit werden die minütlichen Blutzuckerwerte direkt an AndroidAPS weitergeleitet. Die Blutzuckerquelle muss dazu auf "xDrip+" eingestellt sein innerhalb AndroidAPS.
 
 Um den Sensor zu starten, wählst du in der Auswahl "2." den Kontrollkasten "Libreview".
@@ -103,7 +103,7 @@ Fertig, das wars! Sollten die Werte nicht ersichtlich sein, dann findest du mehr
 Die Blutzuckerwerte werden von der xDrip+ App auf dem Smartphone empfangen.
 
 - Falls noch nicht eingerichtet, lade die xDrip+ App herunter und installiere einen der neuesten Nightly Builds von [hier](https://github.com/NightscoutFoundation/xDrip/releases).
-- In xDrip+ wähle "Libre patched" oder "Libre2 (gepatchte App)" als Datenquelle
+- In xDrip+ wähle "Libre2 patched" oder "Libre2 (patched App)" als Datenquelle
 - Batterieoptimierung deaktivieren und Hintergrundaktivität für die xDrip+ App zulassen
 - Falls nötig, gib unter Less Common Settings->Extra Logging Settings->Extra tags for logging "BgReading:d,xdrip libre_receiver:v" ein. Dadurch werden zusätzliche Fehlermeldungen für die Fehlersuche protokolliert.
 - Geh in xDrip+ auf Einstellungen -> Interapp-Kompatibilität -> Daten lokal übertragen und wähle EIN.
