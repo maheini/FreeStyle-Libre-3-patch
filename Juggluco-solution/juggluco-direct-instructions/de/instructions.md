@@ -19,7 +19,7 @@ Installiere die Libre 3 App aus dem Playstore und öffne diese. Auf dem Startbil
 
 ![Libre3 Startbildschirm](../images/1.jpg) ![Libreview Anmeldung](../images/2.jpg)
 
-Anschliessend musst du die Nutzerbedingungen von Abbott akzeptieren. Die letzte ist dabei Optional und kann auch abgelehnt werden.
+Anschliessend musst du die Nutzerbedingungen von Abbott akzeptieren. Die letzte ist dabei optional und kann auch abgelehnt werden.
 
 ![Libre 3 Term](../images/4.jpg) ![Libre 3 Term](../images/5.jpg) ![Libre 3 Term](../images/6.jpg)
 
