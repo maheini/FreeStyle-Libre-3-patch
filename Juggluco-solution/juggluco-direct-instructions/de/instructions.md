@@ -61,7 +61,7 @@ Auch hier kann eine Nachfrage zur Deaktivierung der Akku-optimierung auftauchen.
 
 ![Juggluco Akkuoptimierung deaktivieren](../images/18.jpg)
 
-Klicke auf dem Einführung von Juggluco auf "OK".
+Klicke bei der Einführung von Juggluco auf "OK".
 
 ![Juggluco Akkuoptimierung deaktivieren](../images/19.jpg)
 
