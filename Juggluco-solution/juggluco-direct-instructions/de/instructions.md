@@ -27,13 +27,13 @@ Stelle die App nun Schritt für Schritt nach deinen Bedürfnissen ein. Falls die
 
 ![Libre 3 Akkuoptimierung](../images/10.jpg)
 
-Nachdem du die Libre 3 App eingerichtet hast, darfst du bereits deinen ersten Sensor aktivieren. Scanne dazu wie gezeigt den Sensor und warte die 60 Minuten aufwärmphase vom Sensor ab.
+Nachdem du die Libre 3 App eingerichtet hast, darfst du bereits deinen ersten Sensor aktivieren. Scanne dazu wie gezeigt den Sensor und warte die 60 Minuten Aufwärmphase vom Sensor ab.
 
 ![Libre 3 Sensor aktivieren](../images/12.jpg)
 
 ## Schritt 2: Libre 3 App beenden
 
-Nachdem der Sensor erfolgreich gestartet ist und der erste Sensorwert sichtbar ist, kann es weitergehen. Öffne nun die Einstellungen und öffne die Einstellungen für "Apps".
+Nachdem der Sensor erfolgreich gestartet ist und der erste Sensorwert sichtbar ist, kann es weitergehen. Öffne nun die Einstellungen und wähle den Menupunkt für "Apps".
 
 ![Einstellungen Apps](../images/13.jpg)
 
