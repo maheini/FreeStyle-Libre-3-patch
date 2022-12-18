@@ -6,12 +6,12 @@ The Freestyle Libre 3 system can automatically report dangerous blood glucose le
 
 The sensor can be calibrated in the range of -40 mg/dl to +20 mg/dl (-2.2 mmol/l to +1.1 mmol/l) to compensate for differences between the bloody reading and the sensor readings.
 
-### Derzeitige Einschränkungen
+### Current restrictions
 
-- Diese Variante funktioniert aktuell nicht mit der US-Variante vom Libre3
-- Wenn du ein gerootetes System hast, musst du diesen verstecken. Hier findest du eine Anleitung: [Link](https://www.reddit.com/r/Freestylelibre/comments/s22vlr/comment/hw2p4th/?utm_source=share\&utm_medium=web2x\&context=3).
-  (Um herauszufinden, ob das Smartphone gerootet ist, gibt es mehrere Apps, eine davon ist z.B. [root-checker.org](https://root-checker.org/))
-- Die Juggluco App unterstützt nur die Sprachen Englisch, Niederländisch und Italienisch.
+- This solution currently does not work with the US variant of Libre3
+- If you have a rooted system, you have to hide it. You can find instructions here: [Link](https://www.reddit.com/r/Freestylelibre/comments/s22vlr/comment/hw2p4th/?utm_source=share\&utm_medium=web2x\&context=3).
+   (There are several apps to find out if the smartphone is rooted, one of them is e.g. [root-checker.org](https://root-checker.org/))
+- The Juggluco app only supports English, Dutch and Italian languages.
 
 ## Schritt 1: Herunterladen und Einrichten der Libre3 App
 
