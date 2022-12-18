@@ -31,23 +31,23 @@ After setting up the Libre 3 app, you can already activate your first sensor. To
 
 ![Enable Libre 3 Sensor](../images/12.jpg)
 
-## Schritt 2: Libre 3 App beenden
+## Step 2: Stop Libre 3 app
 
-Nachdem der Sensor erfolgreich gestartet ist und der erste Sensorwert sichtbar ist, kann es weitergehen. Öffne nun die Einstellungen und wähle den Menupunkt für "Apps".
+After the sensor has started successfully and the first sensor reading is visible, you can continue. Now open the settings and select the menu option for "Apps".
 
-![Einstellungen Apps](../images/13.jpg)
+![App settings](../images/13.jpg)
 
-Anschliessend suchst du nach der Libre 3 App. Hast du diese gefunden, klickst du diese an.
+You then search for the Libre 3 app. Once you have found it, tap on it.
 
-![Libre 3 App Einstellungen](../images/14.jpg)
+![Libre 3 app settings](../images/14.jpg)
 
-Nun klickst du auf "Stoppen" oder "Beenden erzwingen". Der genaue Button kann je nach Android version variieren.
+Now tap "Stop" or "Force stop". The exact button may vary depending on the Android version.
 
-![Libre 3 beenden](../images/15.jpg)
+![Exit Libre 3](../images/15.jpg)
 
-Sollte eine weitere Nachfrage kommen, kannst du diese mit "OK" bestätigen.
+If there is another request, you can confirm it with "OK".
 
-![Libre 3 beenden](../images/16.jpg)
+![Exit Libre 3](../images/16.jpg)
 
 ## Schritt 3: Juggluco installieren & einrichten
 
