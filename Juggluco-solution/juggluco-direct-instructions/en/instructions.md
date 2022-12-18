@@ -13,23 +13,23 @@ The sensor can be calibrated in the range of -40 mg/dl to +20 mg/dl (-2.2 mmol/l
    (There are several apps to find out if the smartphone is rooted, one of them is e.g. [root-checker.org](https://root-checker.org/))
 - The Juggluco app only supports English, Dutch and Italian languages.
 
-## Schritt 1: Herunterladen und Einrichten der Libre3 App
+## Step 1: Download and set up the Libre3 app
 
-Installiere die Libre 3 App aus dem Playstore und öffne diese. Auf dem Startbildschirm klickst du auf "Anmelden". Die Anmeldung mit deinem Libreview Account ist zwingend notwendig - solltest du keinen haben, kannst du dir einen erstellen.
+Install the Libre 3 app from the Playstore and open it. On the home screen, click Sign In. Registration with your Libreview account is mandatory - if you don't have one yet, you can create one.
 
-![Libre3 Startbildschirm](../images/1.jpg) ![Libreview Anmeldung](../images/2.jpg)
+![Libre3 start screen](../images/1.jpg) ![Libreview login](../images/2.jpg)
 
-Anschliessend musst du die Nutzerbedingungen von Abbott akzeptieren. Die letzte ist dabei optional und kann auch abgelehnt werden.
+You must then accept Abbott's Terms of Service. The last one is optional and can also be rejected.
 
 ![Libre 3 Term](../images/4.jpg) ![Libre 3 Term](../images/5.jpg) ![Libre 3 Term](../images/6.jpg)
 
-Stelle die App nun Schritt für Schritt nach deinen Bedürfnissen ein. Falls diese Meldung zur Deaktivierung der Akku-optimierung auftaucht, dann klicke auf "Erlauben".
+Adjust the app step by step according to your needs. If you see this message about disabling battery optimization, tap "Allow".
 
-![Libre 3 Akkuoptimierung](../images/10.jpg)
+![Libre 3 battery optimization](../images/10.jpg)
 
-Nachdem du die Libre 3 App eingerichtet hast, darfst du bereits deinen ersten Sensor aktivieren. Scanne dazu wie gezeigt den Sensor und warte die 60 Minuten Aufwärmphase vom Sensor ab.
+After setting up the Libre 3 app, you can already activate your first sensor. To do this, scan the sensor as shown and wait for the sensor to warm up within the next 60 minutes.
 
-![Libre 3 Sensor aktivieren](../images/12.jpg)
+![Enable Libre 3 Sensor](../images/12.jpg)
 
 ## Schritt 2: Libre 3 App beenden
 
