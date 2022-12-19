@@ -49,54 +49,54 @@ If there is another request, you can confirm it with "OK".
 
 ![Exit Libre 3](../images/16.jpg)
 
-## Schritt 3: Juggluco installieren & einrichten
+## Step 3: Install & set up Juggluco
 
-Installiere nun die [Juggluco App](https://play.google.com/store/apps/details?id=tk.glucodata) aus dem Playstore (Version 4.0.1 oder höher). Mit hilfe dieser App kann der Blutzuckerwert direkt an Xdrip und AndroidAPS weitergeleitet werden. Dazu wird der aktive Sensor (welcher auf Libreview registriert ist) innerhalb Juggluco weiterverwendet. Dies erklärt auch, weshalb ein Libreview Konto zwingend notwendig ist.
+Now install the [Juggluco App](https://play.google.com/store/apps/details?id=tk.glucodata) from the Playstore (version 4.0.1 or higher). With the help of this app, the blood sugar readings can be sent directly to Xdrip and AndroidAPS. For this purpose, the active sensor (which is registered on Libreview) is used within Juggluco. This also explains why a Libreview account is mandatory.
 
-Nachdem die Juggluco installiert hast, kann es sein das mehrere Meldungen auftauchen. Erlaube Juggluco, Geräte in der nähe zu finden, lokalisieren und verbinden.
+After installing Juggluco, several messages may appear. Allow Juggluco to find, locate and connect nearby devices.
 
-![Juggluco Verbindungen erlauben](../images/17.jpg)
+![Allow Juggluco connections](../images/17.jpg)
 
-Auch hier kann eine Nachfrage zur Deaktivierung der Akku-optimierung auftauchen. Klicke auf "Erlauben". Dies ist wichtig, damit die App im Hintergrund weiterläuft.
+A request to deactivate the battery optimization may appear as well. Tap "Allow". This is important to keep the app running in the background.
 
-![Juggluco Akkuoptimierung deaktivieren](../images/18.jpg)
+![Disable Juggluco battery optimization](../images/18.jpg)
 
-Klicke bei der Einführung von Juggluco auf "OK".
+Tap OK when Juggluco is introduced.
 
-![Juggluco Akkuoptimierung deaktivieren](../images/19.jpg)
+![Disable Juggluco battery optimization](../images/19.jpg)
 
-Nun siehst du den Juggluco Startbildschirm. Klicke hier in der linken oberen Hälfte ins leere. Die ungefähre Position siehst du hier.
+Now you will see the Juggluco home screen. Click onto the empty space within the upper left half. You can see the approximate position here.
 
-![Juggluco Menu öffnen](../images/20.jpg)
+![Open Juggluco Menu](../images/20.jpg)
 
-Es öffnet sich ein Menu. Hier kannst du "Settings" auswählen.
+This menu will open. Here you can select "Settings".
 
 ![Juggluco Menu](../images/21.jpg)
 
-Anschliessend öffnet sich diese Seite. In der Auswahl "1." hast du die zwei Möglichkeiten:
+This page will then show up. In the selection "1." you have two options:
 
-1. "Send to xDrip" -> Mit dieser Einstellung werden die Blutzuckerwerte an xDrip weitergeleitet. Dazu muss als Empfänger "Libre2 patched" oder "Libre 2 (patched App)" auswählen.
-2. "xDrip broadcast" -> Hiermit werden die minütlichen Blutzuckerwerte direkt an AndroidAPS weitergeleitet. Die Blutzuckerquelle muss dazu auf "xDrip+" eingestellt sein innerhalb AndroidAPS.
+1. "Send to xDrip" -> With this setting, the blood sugar readings are sent to xDrip. Select "Libre2 patched" or "Libre 2 (patched app)" as the recipient within xDrip.
+2. "xDrip broadcast" -> With this setting, the minutely blood sugar reading are sent directly to AndroidAPS. The blood glucose source must be set to "xDrip+" within AndroidAPS.
 
-Um den Sensor zu starten, wählst du in der Auswahl "2." den Kontrollkasten "Libreview".
+To start the sensor, choose "2." the "Libreview" checkbox.
 
-![Juggluco Einstellungen](../images/22.jpg)
+![Juggluco Settings](../images/22.jpg)
 
-Im nächsten Fenster musst du deine Anmeldedaten für Libreview eingeben. Es muss sich um das Konto handeln, mit welchem der Sensor aktiviert wurde. Klicke danach auf "Get Account ID".
+In the next screen you have to enter your login data for Libreview. It must be the account with which the sensor was activated. Then click on "Get Account ID".
 
-![Libreview verbinden](../images/23.jpg)
+![Connect Libreview](../images/23.jpg)
 
-Falls alles geklappt hat, sollte nun eine mehrstellige Nummer unter dem "Resend data" Button ersichtlich sein. Dieser Vorgang kann etwas dauern - sollte die Nummer dennoch nicht erscheinen, so prüfe deine Internetverbindung und versuch die vorherigen Schritte nochmals.
+If everything went well, a multi-digit number should now be visible below the "Resend data" button. This process may take some time - if the number still doesn't appear, check your internet connection and try the previous steps again.
 
-**Hinweis:** Falls die Blutzuckerwerte auf Libreview hochgeladen werden sollen, kann der Kontrollkasten "Send to Libreview" aktiviert werden.
+**Note:** If you want to upload blood sugar readings to Libreview, you can check the "Send to Libreview" checkbox.
 
-![Libreview prüfen](../images/24.jpg)
+![Check libreview](../images/24.jpg)
 
-Nun ist es Zeit den Sensor erneut zu starten! Gehe auf den Juggluco Startbildschirm zurück und Scanne deinen bereits aktivierten Sensor. Der Sensor wird gestartet und beginnt unter Umständen erneut eine 60 minütige Aufwärmphase. Nach den 60 Minuten sollten die Werte auf dem Juggluco Startbildschirm ersichtlich werden.
+Now it's time to restart the sensor! Go back to the Juggluco home screen and scan your previously activated sensor. The sensor will start and may enter a 60 minute warm-up period again. After the 60 minutes, the readings should be visible on the Juggluco home screen.
 
-![Libreview prüfen](../images/25.jpg)
+![Check libreview](../images/25.jpg)
 
-Fertig, das wars! Sollten die Werte nicht ersichtlich sein, dann findest du mehr Infos im Abschnitt "Erfahrungen und Fehlerbehebung" nach.
+Done, that's it! If the readings are not visible, you can find more information in the "Experiences and troubleshooting" section.
 
 ## Schritt 4 (optional): xDrip einrichten
 
