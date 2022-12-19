@@ -119,12 +119,12 @@ Wait at least 15-20 minutes if there is still no data.
 
 After a sensor change xDrip+ will automatically detect the new sensor and will delete all calibration data. You may check you bloody BG after activation and make a new initial calibration.
 
-## Schritt 6 (nur für Looper): AndroidAPS konfigurieren
+## Step 6 (for looping only): Configure AndroidAPS
 
-- In AndroidAPS gehe zu Config Builder -> BG Source und wählen "xDrip+".
-- Wenn AndroidAPS keine Werte empfängt, wenn sich das Telefon im Flugmodus befindet, verwende "Identify receiver".
+- In AndroidAPS go to Config Builder -> BG Source and check "xDrip+"
+- If AndroidAPS does not receive BG values when phone is in airplane mode, use "Identify receiver"
 
-## Zurück zur originalen Libre 3 App wechseln
+Until now, using Libre 3 as BG source you cannot activate 'Enable SMB always' and 'Enable SMB after carbs' within SMB algorithm. The BG values of Libre 3 are not smooth enough to use it safely.
 
 Es ist möglich, von Juggluco auf die oroginale Libre 3 App zurück zu wechseln. Folgende Schritte sind notwendig:
 
