@@ -136,38 +136,42 @@ It is possible to switch back from Juggluco to the Libre 3 app as receiver. The 
 4. In the Libre 3 menu, click "Start Sensor", select "Yes", "Next" and scan your sensor.
 5. The 60-minute warm-up phase should then begin. This is necessary after every change and cannot be skipped.
 
-### Notwendige Einstellungen für einen erfolgreichen Sensorstart
+## Experiences and troubleshooting
 
-- NFC aktiviert / BT aktiviert
-- Speicher- und Standortberechtigung aktiviert
-- Ortungsdienst aktiviert
-- automatische Zeit- und Zeitzoneneinstellung
+### Necessary settings for a successful sensor start
 
-Bitte beachte, dass der Ortungsdienst eine zentrale Einstellung ist. Es handelt sich nicht um die Standortberechtigung der App, die ebenfalls eingestellt werden muss!
+- NFC enabled / BT enabled
+- Storage and location permission enabled
+- Location service enabled
+- automatic time and time zone setting
 
-### Fehlerbehebung Libre3 keine Messwerte
+Please note that the location service is a central setting. It is not about the location permission of the app, which must be set as well!
 
-- Der Android-Ortungsdienst wird nicht erlaubt - bitte aktiviere ihn in den Systemeinstellungen
-- automatische Uhrzeit und Zeitzone nicht eingestellt - bitte ändere die Einstellungen entsprechend
-- Bluetooth ist ausgeschaltet - bitte einschalten
+### Troubleshooting Libre3 no readings
 
-### Fehlerbehebung Juggluco keine Messwerte
+- Android location service is not granted - please enable it in the system settings
+- automatic time and time zone not set - please change the settings accordingly
+- Bluetooth is switched off - please switch on¨
+- Make sure the Libre 3 sensor is not connected to any other device.
 
-- Prüfe ob die Libre 3 App gestoppt ist.
-- Scanne den Libre 3 Sensor erneut innerhalb der Juggluco App
-- Vergewissere dich, dass der Sensor mit dem aktuellen Libreview Konto aktiviert wurde
-- Prüfe ob eine Sensornummer in Juggluco ersichtlich ist
-- Üblichweise wird der Sensor innerhalb von 3 Minuten mit dem Smartphone verbunden, kann aber auch länger dauern.
-- Kann die Bluetooth Verbindung nicht hergestellt werden, dann versuch einen Neustart vom Smartphone.
+### Troubleshooting Juggluco no readings
 
-### Fehlerbehebung Blutzuckerwerte werden nicht auf Libreview hochgeladen
+- Check if the Libre 3 app is stopped.
+- Rescan the Libre 3 sensor within the Juggluco app
+- Make sure the sensor has been activated with the current Lireview account
+- Check if a sensor number is visible in Juggluco
+- The sensor is usually connected to the smartphone within 3 minutes, but it can also take longer.
+- If the Bluetooth connection cannot be established, try restarting the smartphone.
+- Make sure the Libre 3 sensor is not connected to any other device.
 
-- Prüfe deine Internetverbindung
-- Vergewissere dich, dass Juggluco Blutzuckerwerte empfängt
-- Stelle sicher, dass der Kontrollkasten "Send to Libreview" aktiviert ist innerhalb Juggluco->Einstellungen->Libreview
+### Troubleshooting Blood sugar readings not uploading to Lireview
 
-### Weitere Hilfe
+- Check your internet connection
+- Make sure Juggluco is receiving blood sugar readings
+- Ensure the "Send to Libreview" checkbox is checked within Juggluco->Settings->Libreview
 
-Originalanleitung: [jkaltes-Website](http://jkaltes.byethost16.com/Juggluco/libre3/)
+### Further help
 
-Zusätzliches Github-Repo: [Github-Link](https://github.com/maheini/FreeStyle-Libre-3-patch)
+Original instructions: [jkaltes website](http://jkaltes.byethost16.com/Juggluco/libre3/)
+
+Additional Github repo: [Github link](https://github.com/maheini/FreeStyle-Libre-3-patch)
