@@ -126,15 +126,15 @@ After a sensor change xDrip+ will automatically detect the new sensor and will d
 
 Until now, using Libre 3 as BG source you cannot activate 'Enable SMB always' and 'Enable SMB after carbs' within SMB algorithm. The BG values of Libre 3 are not smooth enough to use it safely.
 
-Es ist möglich, von Juggluco auf die oroginale Libre 3 App zurück zu wechseln. Folgende Schritte sind notwendig:
+## Switch back to the Libre app from Juggluco
 
-1. Libre 3 App neu installieren (Oder Daten löschen in den Einstellungen)
-2. Libre 3 App einrichten mit dem Libreview Konto, mit welchem der Sensor aktiviert wurde.
-3. Stoppe die Juggluco App in den Einstellungen, ähnlich wie die Libre 3 App in der Anleitung.
-4. Klicke im Libre 3 Menu auf "Sensor starten", wähle "Ja", "Weiter" und Scanne deinen Sensor.
-5. Anschliessend sollte die 60 minütige Aufwärmphase beginnen. Diese ist nach jedem Wechsel notwendig und kann nicht übersprungen werden.
+It is possible to switch back from Juggluco to the Libre 3 app as receiver. The following steps are necessary:
 
-## Erfahrungen und Fehlerbehebung
+1. Reinstall Libre 3 app (Or clear data in settings)
+2. Set up the Libre 3 app with the Libreview account with which the sensor was activated.
+3. Stop the Juggluco app in the settings, similar to the Libre 3 app in the instructions.
+4. In the Libre 3 menu, click "Start Sensor", select "Yes", "Next" and scan your sensor.
+5. The 60-minute warm-up phase should then begin. This is necessary after every change and cannot be skipped.
 
 ### Notwendige Einstellungen für einen erfolgreichen Sensorstart
 
