@@ -98,18 +98,18 @@ Now it's time to restart the sensor! Go back to the Juggluco home screen and sca
 
 Done, that's it! If the readings are not visible, you can find more information in the "Experiences and troubleshooting" section.
 
-## Schritt 4 (optional): xDrip einrichten
+## Step 4 (optional): Set up xDrip
 
-Die Blutzuckerwerte werden von der xDrip+ App auf dem Smartphone empfangen.
+The blood sugar values are received on the smartphone by the xDrip+ App.
 
-- Falls noch nicht eingerichtet, lade die xDrip+ App herunter und installiere einen der neuesten Nightly Builds von [hier](https://github.com/NightscoutFoundation/xDrip/releases).
-- In xDrip+ wähle "Libre2 patched" oder "Libre2 (patched App)" als Datenquelle
-- Batterieoptimierung deaktivieren und Hintergrundaktivität für die xDrip+ App zulassen
-- Falls nötig, gib unter Less Common Settings->Extra Logging Settings->Extra tags for logging "BgReading:d,xdrip libre_receiver:v" ein. Dadurch werden zusätzliche Fehlermeldungen für die Fehlersuche protokolliert.
-- Geh in xDrip+ auf Einstellungen -> Interapp-Kompatibilität -> Daten lokal übertragen und wähle EIN.
-- Geh in xDrip+ zu Einstellungen -> Interapp-Kompatibilität -> Behandlungen akzeptieren und wähle AUS.
-- Damit AAPS Blutzuckerwerte (ab Version 2.5.x) von xDrip+ empfangen kann, aktiviere bitte Einstellungen -> Interapp Einstellungen -> Empfänger identifizieren "info.nightscout.androidaps".
-- Wenn du AndroidAPS zur Kalibrierung verwenden möchten, geh in xDrip+ zu Einstellungen -> Interapp-Kompatibilität -> Kalibrierungen akzeptieren und wähle EIN. Am besten prüfst du auch die Optionen unter Einstellungen -> Weniger allgemeine Einstellungen -> Erweiterte Kalibrierungseinstellungen überprüfen.
+- If not already set up then download xDrip+ app and install one of the latest nightly builds from [here](https://github.com/NightscoutFoundation/xDrip/releases).
+- In xDrip+ select "Libre2 (patched App)" as data source
+- disable battery optimization and allow background activity for xDrip+ app
+- If necessary, enter "BgReading:d,xdrip libre_receiver:v" under Less Common Settings->Extra Logging Settings->Extra tags for logging. This will log additional error messages for trouble shooting.
+- In xDrip+ go to Settings -> Interapp Compatibility -> Broadcast Data Locally and select ON.
+- In xDrip+ go to Settings -> Interapp Compatibility -> Accept Treatments and select OFF.
+- to enable AAPS to receive blood sugar levels (version 2.5.x and later) from xDrip+ please set Settings -> Interapp Settings -> Identify Receiver "info.nightscout.androidaps".
+- If you want to be able to use AndroidAPS to calibrate then in xDrip+ go to Settings -> Interapp Compatibility -> Accept Calibrations and select ON. You may also want to review the options in Settings -> Less Common Settings -> Advanced Calibration Settings.
 
 ## Schritt 5 (optional): Sensor in xDrip starten
 
