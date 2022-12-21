@@ -124,9 +124,9 @@ Nach einem Sensorwechsel wird xDrip+ den neuen Sensor automatisch erkennen und a
 - In AndroidAPS gehe zu Config Builder -> BG Source und wählen "xDrip+".
 - Wenn AndroidAPS keine Werte empfängt, wenn sich das Telefon im Flugmodus befindet, verwende "Identify receiver".
 
-## Zurück zur originalen Libre 3 App wechseln
+## Von Juggluco zurück auf die Libre App wechseln
 
-Es ist möglich, von Juggluco auf die oroginale Libre 3 App zurück zu wechseln. Folgende Schritte sind notwendig:
+Es ist möglich, von Juggluco zurück zur Libre 3-App als Empfänger zu wechseln. Folgende Schritte sind notwendig:
 
 1. Libre 3 App neu installieren (Oder Daten löschen in den Einstellungen)
 2. Libre 3 App einrichten mit dem Libreview Konto, mit welchem der Sensor aktiviert wurde.
@@ -150,6 +150,7 @@ Bitte beachte, dass der Ortungsdienst eine zentrale Einstellung ist. Es handelt 
 - Der Android-Ortungsdienst wird nicht erlaubt - bitte aktiviere ihn in den Systemeinstellungen
 - automatische Uhrzeit und Zeitzone nicht eingestellt - bitte ändere die Einstellungen entsprechend
 - Bluetooth ist ausgeschaltet - bitte einschalten
+- Vergewissere dich, dass der Libre 3 Sensor mit keinem anderen Gerät verbunden ist.
 
 ### Fehlerbehebung Juggluco keine Messwerte
 
@@ -159,6 +160,7 @@ Bitte beachte, dass der Ortungsdienst eine zentrale Einstellung ist. Es handelt 
 - Prüfe ob eine Sensornummer in Juggluco ersichtlich ist
 - Üblichweise wird der Sensor innerhalb von 3 Minuten mit dem Smartphone verbunden, kann aber auch länger dauern.
 - Kann die Bluetooth Verbindung nicht hergestellt werden, dann versuch einen Neustart vom Smartphone.
+- Vergewissere dich, dass der Libre 3 Sensor mit keinem anderen Gerät verbunden ist.
 
 ### Fehlerbehebung Blutzuckerwerte werden nicht auf Libreview hochgeladen
 
