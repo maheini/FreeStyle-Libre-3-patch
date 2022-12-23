@@ -103,7 +103,7 @@ Done, that's it! If the readings are not visible, you can find more information 
 The blood sugar values are received on the smartphone by the xDrip+ App.
 
 - If not already set up then download xDrip+ app and install one of the latest nightly builds from [here](https://github.com/NightscoutFoundation/xDrip/releases).
-- In xDrip+ select "Libre2 (patched App)" as data source
+- In xDrip+ select "Libre2 patched" or "Libre 2 (patched app)" as data source
 - disable battery optimization and allow background activity for xDrip+ app
 - If necessary, enter "BgReading:d,xdrip libre_receiver:v" under Less Common Settings->Extra Logging Settings->Extra tags for logging. This will log additional error messages for trouble shooting.
 - In xDrip+ go to Settings -> Interapp Compatibility -> Broadcast Data Locally and select ON.
