@@ -8,7 +8,6 @@ Der Sensor kann im Bereich von -40 mg/dl bis +20 mg/dl (-2,2 mmol/l bis +1,1 mmo
 
 ### Derzeitige Einschränkungen
 
-- Diese Variante funktioniert aktuell nicht mit der US-Variante vom Libre3
 - Wenn du ein gerootetes System hast, musst du diesen verstecken. Hier findest du eine Anleitung: [Link](https://www.reddit.com/r/Freestylelibre/comments/s22vlr/comment/hw2p4th/?utm_source=share\&utm_medium=web2x\&context=3).
   (Um herauszufinden, ob das Smartphone gerootet ist, gibt es mehrere Apps, eine davon ist z.B. [root-checker.org](https://root-checker.org/))
 - Die Juggluco App unterstützt nur die Sprachen Englisch, Niederländisch und Italienisch.
