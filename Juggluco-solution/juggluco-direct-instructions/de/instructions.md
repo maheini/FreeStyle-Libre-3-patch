@@ -2,7 +2,7 @@
 
 ## Informationen
 
-Das Freestyle Libre 3 System kann automatisch gefährliche Blutzuckerwerte melden. Der Libre3 Sensor sendet jede Minute den aktuellen Blutzuckerwert an einen Empfänger (Lesegerät oder Smartphone). Der Empfänger löst bei Bedarf einen Alarm aus. Mit Hilfe der Juggluco App kann der Sensor nach derm Start übernommen werden und mit Xdrip+, AndroidAPS oder Libreview verbunden werden. So können die Blutzuckerwerte direkt übertragen werden. Es ist sogar möglich, ältere Daten aus dem Speicher des Sensors zu empfangen (zwei Stunden minütliche Glukose und zwei Wochen einmal pro 5 Minuten Verlaufsdaten), die an Juggluco gesendet werden.
+Das Freestyle Libre 3 System kann automatisch gefährliche Blutzuckerwerte melden. Der Libre3 Sensor sendet jede Minute den aktuellen Blutzuckerwert an einen Empfänger (Lesegerät oder Smartphone). Der Empfänger löst bei Bedarf einen Alarm aus. Mit Hilfe der Juggluco App kann der Sensor nach dem Start übernommen werden und mit Xdrip+, AndroidAPS oder Libreview verbunden werden. So können die Blutzuckerwerte direkt übertragen werden. Es ist sogar möglich, ältere Daten aus dem Speicher des Sensors zu empfangen (zwei Stunden minütliche Glukose und zwei Wochen einmal pro 5 Minuten Verlaufsdaten), die an Juggluco gesendet werden.
 
 Der Sensor kann im Bereich von -40 mg/dl bis +20 mg/dl (-2,2 mmol/l bis +1,1 mmol/l) kalibriert werden, um Unterschiede zwischen der blutigen Messung und den Sensormessungen auszugleichen.
 
@@ -22,7 +22,7 @@ Anschliessend musst du die Nutzerbedingungen von Abbott akzeptieren. Die letzte 
 
 ![Libre 3 Term](../images/4.jpg) ![Libre 3 Term](../images/5.jpg) ![Libre 3 Term](../images/6.jpg)
 
-Stelle die App nun Schritt für Schritt nach deinen Bedürfnissen ein. Falls diese Meldung zur Deaktivierung der Akku-optimierung auftaucht, dann klicke auf "Erlauben".
+Stelle die App nun Schritt für Schritt nach deinen Bedürfnissen ein. Falls diese Meldung zur Deaktivierung der Akku-Optimierung auftaucht, dann klicke auf "Erlauben".
 
 ![Libre 3 Akkuoptimierung](../images/10.jpg)
 
@@ -40,7 +40,7 @@ Anschliessend suchst du nach der Libre 3 App. Hast du diese gefunden, klickst du
 
 ![Libre 3 App Einstellungen](../images/14.jpg)
 
-Nun klickst du auf "Stoppen" oder "Beenden erzwingen". Der genaue Button kann je nach Android version variieren.
+Nun klickst du auf "Stoppen" oder "Beenden erzwingen". Der genaue Button kann je nach Android Version variieren.
 
 ![Libre 3 beenden](../images/15.jpg)
 
@@ -50,13 +50,13 @@ Sollte eine weitere Nachfrage kommen, kannst du diese mit "OK" bestätigen.
 
 ## Schritt 3: Juggluco installieren & einrichten
 
-Installiere nun die [Juggluco App](https://play.google.com/store/apps/details?id=tk.glucodata) aus dem Playstore (Version 4.0.1 oder höher). Mit hilfe dieser App kann der Blutzuckerwert direkt an Xdrip und AndroidAPS weitergeleitet werden. Dazu wird der aktive Sensor (welcher auf Libreview registriert ist) innerhalb Juggluco weiterverwendet. Dies erklärt auch, weshalb ein Libreview Konto zwingend notwendig ist.
+Installiere nun die [Juggluco App](https://play.google.com/store/apps/details?id=tk.glucodata) aus dem Playstore (Version 4.0.1 oder höher). Mit Hilfe dieser App kann der Blutzuckerwert direkt an Xdrip und AndroidAPS weitergeleitet werden. Dazu wird der aktive Sensor (welcher auf Libreview registriert ist) innerhalb Juggluco weiterverwendet. Dies erklärt auch, weshalb ein Libreview Konto zwingend notwendig ist.
 
-Nachdem die Juggluco installiert hast, kann es sein das mehrere Meldungen auftauchen. Erlaube Juggluco, Geräte in der nähe zu finden, lokalisieren und verbinden.
+Nachdem du Juggluco installiert hast, kann es sein das mehrere Meldungen auftauchen. Erlaube Juggluco, Geräte in der Nähe zu finden, lokalisieren und verbinden.
 
 ![Juggluco Verbindungen erlauben](../images/17.jpg)
 
-Auch hier kann eine Nachfrage zur Deaktivierung der Akku-optimierung auftauchen. Klicke auf "Erlauben". Dies ist wichtig, damit die App im Hintergrund weiterläuft.
+Auch hier kann eine Nachfrage zur Deaktivierung der Akku-Optimierung auftauchen. Klicke auf "Erlauben". Dies ist wichtig, damit die App im Hintergrund weiterläuft.
 
 ![Juggluco Akkuoptimierung deaktivieren](../images/18.jpg)
 
@@ -68,7 +68,7 @@ Nun siehst du den Juggluco Startbildschirm. Klicke hier in der linken oberen Hä
 
 ![Juggluco Menu öffnen](../images/20.jpg)
 
-Es öffnet sich ein Menu. Hier kannst du "Settings" auswählen.
+Es öffnet sich ein Menü. Hier kannst du "Settings" auswählen.
 
 ![Juggluco Menu](../images/21.jpg)
 
@@ -85,17 +85,17 @@ Im nächsten Fenster musst du deine Anmeldedaten für Libreview eingeben. Es mus
 
 ![Libreview verbinden](../images/23.jpg)
 
-Falls alles geklappt hat, sollte nun eine mehrstellige Nummer unter dem "Resend data" Button ersichtlich sein. Dieser Vorgang kann etwas dauern - sollte die Nummer dennoch nicht erscheinen, so prüfe deine Internetverbindung und versuch die vorherigen Schritte nochmals.
+Falls alles geklappt hat, sollte nun eine mehrstellige Nummer unter dem "Resend data" Button ersichtlich sein. Dieser Vorgang kann etwas dauern - sollte die Nummer dennoch nicht erscheinen, so prüfe deine Internetverbindung und versuche die vorherigen Schritte nochmals.
 
 **Hinweis:** Falls die Blutzuckerwerte auf Libreview hochgeladen werden sollen, kann der Kontrollkasten "Send to Libreview" aktiviert werden.
 
 ![Libreview prüfen](../images/24.jpg)
 
-Nun ist es Zeit den Sensor erneut zu starten! Gehe auf den Juggluco Startbildschirm zurück und Scanne deinen bereits aktivierten Sensor. Der Sensor wird gestartet und beginnt unter Umständen erneut eine 60 minütige Aufwärmphase. Nach den 60 Minuten sollten die Werte auf dem Juggluco Startbildschirm ersichtlich werden.
+Nun ist es Zeit den Sensor erneut zu starten! Gehe auf den Juggluco Startbildschirm zurück und scanne deinen bereits aktivierten Sensor. Der Sensor wird gestartet und beginnt unter Umständen erneut eine 60 minütige Aufwärmphase. Nach den 60 Minuten sollten die Werte auf dem Juggluco Startbildschirm ersichtlich werden.
 
 ![Libreview prüfen](../images/25.jpg)
 
-Fertig, das wars! Sollten die Werte nicht ersichtlich sein, dann findest du mehr Infos im Abschnitt "Erfahrungen und Fehlerbehebung" nach.
+Fertig, das wars! Sollten die Werte nicht ersichtlich sein, dann findest du mehr Infos im Abschnitt "Erfahrungen und Fehlerbehebung".
 
 ## Schritt 4 (optional): xDrip einrichten
 
@@ -158,7 +158,7 @@ Bitte beachte, dass der Ortungsdienst eine zentrale Einstellung ist. Es handelt 
 - Vergewissere dich, dass der Sensor mit dem aktuellen Libreview Konto aktiviert wurde
 - Prüfe ob eine Sensornummer in Juggluco ersichtlich ist
 - Üblichweise wird der Sensor innerhalb von 3 Minuten mit dem Smartphone verbunden, kann aber auch länger dauern.
-- Kann die Bluetooth Verbindung nicht hergestellt werden, dann versuch einen Neustart vom Smartphone.
+- Kann die Bluetooth Verbindung nicht hergestellt werden, dann versuche einen Neustart vom Smartphone.
 - Vergewissere dich, dass der Libre 3 Sensor mit keinem anderen Gerät verbunden ist.
 
 ### Fehlerbehebung Blutzuckerwerte werden nicht auf Libreview hochgeladen
