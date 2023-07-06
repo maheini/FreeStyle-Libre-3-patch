@@ -16,7 +16,7 @@ Der Sensor kann im Bereich von -40 mg/dl bis +20 mg/dl (-2,2 mmol/l bis +1,1 mmo
 
 ## Schritt 1: Juggluco einrichten
 
-Lade die Juggluco App [hier](./Juggluco-solution/versions/latest/Juggluco.apk?raw=1) herunter und installiere sie.
+Lade die Juggluco App von [hier](https://github.com/maheini/FreeStyle-Libre-3-patch/raw/main/Juggluco-solution/versions/latest/Juggluco.apk) oder [hier](http://jkaltes.byethost16.com/Juggluco/download.html?i=1) herunter und installiere sie.
 
 Nun öffnen wir die App. Du wirst mit diesem Bildschirm unten begrüßt werden. Klicke einfach auf die Schaltfläche "Without Sensor".
 
