@@ -10,7 +10,7 @@ Der Gebrauch von Informationen und der App von github.com ist auf eigenes Risiko
 
 ## Juggluco Lösung
 
-Ein grosses Dankeschön an [jkaltes](http://jkaltes.byethost16.com/) für all die Arbeit. Mit der Juggluco App ist es möglich, die Blutzuckerwerte vom Libre 3 Sensor offline und ohne Root an xDrip+, AndroidAPS etc. zu senden. Eine ausführliche Anleitung findest du hier: [Anleitung Libre 3 Verbindung mit Juggluco](./Juggluco-solution/juggluco-direct-instructions/de/instructions.md). Oder du benutzt den [Download link](./Juggluco-solution/versions/latest/Juggluco.apk?raw=1). Bitte beachte: Das ganze ist auf eigenes Risiko und ohne jegliche Art von Garantie oder Unterstützung. Dieses Projekt hat keine Zusammenarbeit und wird nicht empfohlen von Abbott.
+Ein grosses Dankeschön an [jkaltes](http://jkaltes.byethost16.com/) für all die Arbeit. Mit der Juggluco App ist es möglich, die Blutzuckerwerte vom Libre 3 Sensor offline und ohne Root an xDrip+, AndroidAPS etc. zu senden. Eine ausführliche Anleitung findest du hier: [Anleitung Libre 3 Verbindung mit Juggluco](./Juggluco-solution/instructions/de/instructions.md). Oder du benutzt den [Download link](./Juggluco-solution/versions/latest/Juggluco.apk?raw=1). Bitte beachte: Das ganze ist auf eigenes Risiko und ohne jegliche Art von Garantie oder Unterstützung. Dieses Projekt hat keine Zusammenarbeit und wird nicht empfohlen von Abbott.
 
 ## Andere Lösungen für FSL 3 (benötigen Root oder Internetverbindung)
 
