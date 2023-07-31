@@ -13,7 +13,7 @@ Bilgilerin ve github.com'daki uygulamanın kullanımı kendi sorumluluğunuzdad�
 
 ## Juggluco çözümü
 
-Tüm çalışmaları için [jkaltes](http://jkaltes.byethost16.com/)'a çok teşekkür ederiz. Juggluco uygulamasıyla, Libre 3 sensöründen alınan kan şekeri okumalarını xDrip+, AndroidAPS vb. cihazlara çevrimdışı ve root olmadan göndermek mümkündür. Ayrıntılı talimatları burada bulabilirsiniz: [Juggluco ile Instructions Libre 3 bağlantısı](./Juggluco-solution/juggluco-direct-instructions/en/instructions.md). Veya [İndirme bağlantısını](./Juggluco-solution/versions/latest/Juggluco.apk?raw=1) kullanabilirsiniz. Lütfen dikkat: Bu projenin riski size aittir ve herhangi bir garanti veya destek yoktur. Bu proje Abbott'a bağlı değildir ve Abbott tarafından desteklenmemektedir.
+Tüm çalışmaları için [jkaltes](https://www.juggluco.nl/)'a çok teşekkür ederiz. Juggluco uygulamasıyla, Libre 3 sensöründen alınan kan şekeri okumalarını xDrip+, AndroidAPS vb. cihazlara çevrimdışı ve root olmadan göndermek mümkündür. Ayrıntılı talimatları burada bulabilirsiniz: [Juggluco ile Instructions Libre 3 bağlantısı](./Juggluco-solution/juggluco-direct-instructions/en/instructions.md). Veya [İndirme bağlantısını](./Juggluco-solution/versions/latest/Juggluco.apk?raw=1) kullanabilirsiniz. Lütfen dikkat: Bu projenin riski size aittir ve herhangi bir garanti veya destek yoktur. Bu proje Abbott'a bağlı değildir ve Abbott tarafından desteklenmemektedir.
 
 ## FSL 3 için diğer çözümler (root veya internet bağlantısı gerekir)
 

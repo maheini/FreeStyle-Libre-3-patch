@@ -50,7 +50,7 @@ Sollte eine weitere Nachfrage kommen, kannst du diese mit "OK" bestätigen.
 
 ## Schritt 3: Juggluco installieren & einrichten
 
-Lade nun die Juggluco App von [hier (Link)](https://github.com/maheini/FreeStyle-Libre-3-patch/raw/main/Juggluco-solution/versions/latest/Juggluco.apk) oder [hier (Mirror)](http://jkaltes.byethost16.com/Juggluco/download.html?i=1) (Version 4.0.1 oder höher) herunter und installiere diese. Mit Hilfe dieser App kann der Blutzuckerwert direkt an Xdrip und AndroidAPS weitergeleitet werden. Dazu wird der aktive Sensor (welcher auf Libreview registriert ist) innerhalb Juggluco weiterverwendet. Dies erklärt auch, weshalb ein Libreview Konto zwingend notwendig ist.
+Lade nun die Juggluco App von [hier (Link)](https://github.com/maheini/FreeStyle-Libre-3-patch/raw/main/Juggluco-solution/versions/latest/Juggluco.apk) oder [hier (Mirror)](https://www.juggluco.nl/Juggluco/download.html) (Version 4.0.1 oder höher) herunter und installiere diese. Mit Hilfe dieser App kann der Blutzuckerwert direkt an Xdrip und AndroidAPS weitergeleitet werden. Dazu wird der aktive Sensor (welcher auf Libreview registriert ist) innerhalb Juggluco weiterverwendet. Dies erklärt auch, weshalb ein Libreview Konto zwingend notwendig ist.
 
 Nachdem du Juggluco installiert hast, kann es sein das mehrere Meldungen auftauchen. Erlaube Juggluco, Geräte in der Nähe zu finden, lokalisieren und verbinden.
 
@@ -169,6 +169,6 @@ Bitte beachte, dass der Ortungsdienst eine zentrale Einstellung ist. Es handelt 
 
 ### Weitere Hilfe
 
-Originalanleitung: [jkaltes-Website](http://jkaltes.byethost16.com/Juggluco/libre3/)
+Originalanleitung: [jkaltes-Website](https://www.juggluco.nl/Juggluco/libre3/)
 
 Zusätzliches Github-Repo: [Github-Link](https://github.com/maheini/FreeStyle-Libre-3-patch)
