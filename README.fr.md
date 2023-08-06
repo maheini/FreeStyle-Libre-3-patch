@@ -13,7 +13,7 @@ L'utilisation des informations et de l'application de github.com est à vos prop
 
 ## Juggluco solution
 
-Un grand merci à [jkaltes](http://jkaltes.byethost16.com/) pour tout le travail. Avec l'application Juggluco, il est possible d'envoyer les lectures de glycémie du capteur Libre 3 vers xDrip+, AndroidAPS etc. hors ligne et sans racine. Vous pouvez trouver des instructions détaillées ici : [Instructions Libre 3 connexion avec Juggluco](./Juggluco-solution/juggluco-direct-instructions/en/instructions.md). Ou vous pouvez utiliser le [Lien de téléchargement](./Juggluco-solution/versions/latest/Juggluco.apk?raw=1). Veuillez noter : Ce projet est à vos propres risques et sans aucune sorte de garantie ou de soutien. Ce projet n'est ni affilié ni approuvé par Abbott.
+Un grand merci à [jkaltes](https://www.juggluco.nl/) pour tout le travail. Avec l'application Juggluco, il est possible d'envoyer les lectures de glycémie du capteur Libre 3 vers xDrip+, AndroidAPS etc. hors ligne et sans racine. Vous pouvez trouver des instructions détaillées ici : [Instructions Libre 3 connexion avec Juggluco](./Juggluco-solution/juggluco-direct-instructions/en/instructions.md). Ou vous pouvez utiliser le [Lien de téléchargement](./Juggluco-solution/versions/latest/Juggluco.apk?raw=1). Veuillez noter : Ce projet est à vos propres risques et sans aucune sorte de garantie ou de soutien. Ce projet n'est ni affilié ni approuvé par Abbott.
 
 ## Autres solutions pour FSL 3 (nécessite une racine ou une connexion Internet)
 
