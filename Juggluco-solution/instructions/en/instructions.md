@@ -155,6 +155,6 @@ Until now, using Libre 2 as BG source you cannot activate 'Enable SMB always' an
 
 ### Further help
 
-Original instructions: [jkaltes website](http://jkaltes.byethost16.com/Juggluco/libre3/)
+Original instructions: [jkaltes website](https://www.juggluco.nl/Juggluco/libre3/)
 
 Additional Github repo: [Github link](https://github.com/maheini/FreeStyle-Libre-3-patch)

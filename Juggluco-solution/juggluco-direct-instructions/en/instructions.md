@@ -50,7 +50,7 @@ If there is another request, you can confirm it with "OK".
 
 ## Step 3: Install & set up Juggluco
 
-Now download & install the Juggluco App from [here (link)](https://github.com/maheini/FreeStyle-Libre-3-patch/raw/main/Juggluco-solution/versions/latest/Juggluco.apk) or [here (mirror)](http://jkaltes.byethost16.com/Juggluco/download.html?i=1) (version 4.0.1 or higher). With the help of this app, the blood sugar readings can be sent directly to Xdrip and AndroidAPS. For this purpose, the active sensor (which is registered on Libreview) is used within Juggluco. This also explains why a Libreview account is mandatory.
+Now download & install the Juggluco App from [here (link)](https://github.com/maheini/FreeStyle-Libre-3-patch/raw/main/Juggluco-solution/versions/latest/Juggluco.apk) or [here (mirror)](https://www.juggluco.nl/Juggluco/download.html) (version 4.0.1 or higher). With the help of this app, the blood sugar readings can be sent directly to Xdrip and AndroidAPS. For this purpose, the active sensor (which is registered on Libreview) is used within Juggluco. This also explains why a Libreview account is mandatory.
 
 After installing Juggluco, several messages may appear. Allow Juggluco to find, locate and connect nearby devices.
 
@@ -171,6 +171,6 @@ Please note that the location service is a central setting. It is not about the 
 
 ### Further help
 
-Original instructions: [jkaltes website](http://jkaltes.byethost16.com/Juggluco/libre3/)
+Original instructions: [jkaltes website](https://www.juggluco.nl/Juggluco/libre3/)
 
 Additional Github repo: [Github link](https://github.com/maheini/FreeStyle-Libre-3-patch)
