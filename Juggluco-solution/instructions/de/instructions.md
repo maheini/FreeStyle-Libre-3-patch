@@ -1,18 +1,13 @@
 # Freestyle Libre 3 Anleitung
 
-Das Freestyle Libre 3 System kann automatisch gefährliche Blutzuckerwerte melden. Der Libre3 Sensor sendet jede Minute den aktuellen Blutzuckerwert an einen Empfänger (Lesegerät oder Smartphone). Der Empfänger löst bei Bedarf einen Alarm aus. Mit einer modifizierten LibreLink-App, der Juggluco-App und der xDrip+-App kann deinen Blutzuckerwert kontinuierlich auf dem Smartphone empfangen und anzeigen lassen. Es ist sogar möglich, ältere Daten aus dem Speicher des Sensors zu empfangen (zwei Stunden minütliche Glukose und zwei Wochen einmal pro 5 Minuten Verlaufsdaten), die an Juggluco gesendet werden.
+Das Freestyle Libre 3 System kann automatisch gefährliche Blutzuckerwerte melden. Der Libre3 Sensor sendet jede Minute den aktuellen Blutzuckerwert an einen Empfänger (Lesegerät oder Smartphone). Der Empfänger löst bei Bedarf einen Alarm aus. Mit der Juggluco App kann der Blutzuckerwert für externe Dienste wie AndroidAPS oder xDrip verwendet werden.
 
 Der Sensor kann im Bereich von -40 mg/dl bis +20 mg/dl (-2,2 mmol/l bis +1,1 mmol/l) kalibriert werden, um Unterschiede zwischen der blutigen Messung und den Sensormessungen auszugleichen.
 
 ### Derzeitige Einschränkungen
 
-- Es ist derzeit nicht bestätigt, ob diese Lösung mit der US-Version der Freestyle Libre 3 Sensoren funktioniert!
-- Wenn du ein gerootetes System hast, musst du diesen verstecken. Hier findest du eine Anleitung: [Link](https://www.reddit.com/r/Freestylelibre/comments/s22vlr/comment/hw2p4th/?utm_source=share\&utm_medium=web2x\&context=3).
+- Wenn du ein gerootetes System hast und die Libre 3 App verwenden möchtest, musst du diesen verstecken. Hier findest du eine Anleitung: [Link](https://www.reddit.com/r/Freestylelibre/comments/s22vlr/comment/hw2p4th/?utm_source=share\&utm_medium=web2x\&context=3).
   (Um herauszufinden, ob das Smartphone gerootet ist, gibt es mehrere Apps, eine davon ist z.B. https://root-checker.org/)
-- Juggluco (erforderliche App zum Empfang der Libre3-Messwerte) unterstützt nur die Sprachen Englisch, Niederländisch und Italienisch. Die gepatchte Libre3-App unterstützt: ar, de, es, fr, hi, in, it, ja, ko, my, nl, pt, ru, th, tr und vi.
-
-
-
 
 ## Schritt 1: Juggluco einrichten
 
@@ -46,7 +41,7 @@ Notwendige Einstellungen für einen erfolgreichen Sensorstart:
 
 Bitte beachte, dass der Ortungsdienst eine zentrale Einstellung ist. Es handelt sich nicht um die Standortberechtigung der App, die ebenfalls eingestellt werden muss!
 
-Starte nun den Libre3-Sensor mit der Juggluco App, indem du den Sensor einfach scannst. Stelle  sicher, dass alle Einstellungen richtig sind. 
+Starte nun den Libre3-Sensor mit der Juggluco App, indem du den Sensor einfach abscannst. Stelle  sicher, dass alle Einstellungen richtig sind. 
 
 ## Schritt 2 (optional): Libreview einrichten
 
@@ -97,10 +92,10 @@ Nach einem Sensorwechsel wird xDrip+ den neuen Sensor automatisch erkennen und a
 
 ### Fehlerbehebung Libre3 -> Juggluco-Verbindung
 
-- Stelle sicher, dass Libre3 die Messwerte empfängt
-- Überprüfe deine Einstellungen und das Passwort erneut
-- Klick im Mene Libre3->Juggluco auf „Sync“ und in Juggluco->Mirror auf die Schaltflächen „Sync“ und „Reinit“.
-- Es ist möglich, dass du manchmal, nachdem du alles konfiguriert hast, das Stoppen vom Libre3 erzwingen und neu starten musst.
+- Stelle sicher, dass du eine aktuelle Version der Juggluco App verwendest
+- Überprüfe deine Einstellungen gemäss dieser Anleitung
+- Es ist möglich, dass du manchmal das Stoppen der Libre 3 App und Juggluco erzwingen und neu starten musst.
+- Deaktiviere Bluetooth und aktiviere es erneut
 - Warte einige Zeit oder versuche, Juggluco zu schließen
 - Ältere Versionen von Juggluco (unter 2.9.6) senden keine nachträglichen Daten vom Libre3-Sensor an verbundene Geräte (z. B. Juggluco auf WearOS). Es ist möglich, dass du in der gepatchten Libre3 app auf „Resend data“ klicken musst (Juggluco Menü).
 
