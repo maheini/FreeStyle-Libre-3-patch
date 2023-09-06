@@ -13,7 +13,7 @@ github.com の情報およびアプリの使用は、自己責任であり、い
 
 ## ジャグルコ液
 
-[jkaltes](https://www.juggluco.nl/) のすべての作業に感謝します。 Juggluco アプリを使用すると、Libre 3 センサーからの血糖測定値を xDrip+、AndroidAPS などにオフラインで root なしで送信できます。 詳細な手順については、[手順 Libre 3 と Juggluco の接続](./Juggluco-solution/juggluco-direct-instructions/en/instructions.md) を参照してください。 または、[ダウンロード リンク](./Juggluco-solution/versions/latest/Juggluco.apk?raw=1) を使用することもできます。 注意: このプロジェクトは自己責任であり、いかなる種類の保証やサポートもありません。 このプロジェクトはアボットと提携しておらず、承認もされていません。
+jkaltes](https://www.juggluco.nl/)に感謝します。Jugglucoアプリを使えば、リブレ3センサーの血糖値をオフラインで、rootなしでxDrip+やAndroidAPSなどに送ることができます。詳しい手順はこちらをご覧ください： [リブレ3とJugglucoの接続方法](./Juggluco-solution/instructions/en/instructions.md)。直接[ダウンロード](https://www.juggluco.nl/Juggluco/download.html)するには、ここをクリックしてください。注意：これは自己責任であり、いかなる保証もサポートもありません。このプロジェクトは、アボット社との協力関係はなく、アボット社が承認したものでもありません。
 
 ## FSL 3 のその他のソリューション (ルートまたはインターネット接続が必要)
 
