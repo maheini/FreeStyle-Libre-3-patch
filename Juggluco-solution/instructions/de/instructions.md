@@ -11,7 +11,7 @@ Der Sensor kann im Bereich von -40 mg/dl bis +20 mg/dl (-2,2 mmol/l bis +1,1 mmo
 
 ## Schritt 1: Juggluco einrichten
 
-Lade die Juggluco App von [hier](https://github.com/maheini/FreeStyle-Libre-3-patch/raw/main/Juggluco-solution/versions/latest/Juggluco.apk) oder [hier](https://www.juggluco.nl/Juggluco/download.html) herunter und installiere sie.
+Lade die Juggluco App von [hier](https://www.juggluco.nl/Juggluco/download.html) herunter und installiere sie.
 
 Nun öffnen wir die App. Du wirst mit diesem Bildschirm unten begrüßt werden. Klicke einfach auf die Schaltfläche "Without Sensor".
 
@@ -28,7 +28,6 @@ Ok, lass uns Juggluco einrichten! Die App selbst hat nicht die beste Oberfläche
 In den Einstellungen kannst du die Datenverbindung zu xDrip konfigurieren. Klicke auf "Patched Libre Broadcast" und drücke "OK".
 
 ![Juggluco-Einstellungen](../images/step\_11.jpg)
-
 
 Gut gemacht!
 
@@ -82,13 +81,9 @@ Nach einem Sensorwechsel wird xDrip+ den neuen Sensor automatisch erkennen und a
 - In AndroidAPS gehe zu Config Builder -> BG Source und wählen "xDrip+".
 - Wenn AndroidAPS keine Werte empfängt, wenn sich das Telefon im Flugmodus befindet, verwende "Identify receiver".
 
+Stand jetzt kann bei Verwendung vom Libre 3 als BZ-Quelle die Optionen "SMB immer aktivieren" und "SMB nach Carbs aktivieren" im SMB-Algorithmus nicht aktiviert werden. Die BZ-Werte von Libre 3 sind nicht glatt genug, um sie sicher zu verwenden.
+
 ## Erfahrungen und Fehlerbehebung
-
-### Fehlerbehebung Libre3 keine Messwerte
-
-- Der Android-Ortungsdienst wird nicht erlaubt - bitte aktiviere ihn in den Systemeinstellungen
-- automatische Uhrzeit und Zeitzone nicht eingestellt - bitte ändere die Einstellungen entsprechend
-- Bluetooth ist ausgeschaltet - bitte einschalten
 
 ### Fehlerbehebung Libre3 -> Juggluco-Verbindung
 
