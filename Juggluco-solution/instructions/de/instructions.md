@@ -52,6 +52,7 @@ Außerdem kannst du beispielsweise deine Daten deinem Arzt zur verfügung stelle
 
 1. Navigiere in Juggluco zu Settings
 2. Wähle "Liebreview"
+
 ![Liebreview](../images/step\_12.jpg)
  
 3. Gib die Daten deines Libreview Accounts an (solltest du noch keinen habe erstelle diesen im Vorhinein)
