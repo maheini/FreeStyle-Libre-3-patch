@@ -55,8 +55,8 @@ Außerdem kannst du beispielsweise deine Daten deinem Arzt zur verfügung stelle
 
 ![Liebreview](../images/step\_12.jpg)
  
-3. Gib die Daten deines Libreview Accounts an (solltest du noch keinen habe erstelle diesen im Vorhinein)
-4. Fertig!
+4. Tippe auf "Get Account ID" und warte, bis die Libre-ID sichtbar wird (Zufallszahl unterhalb des Passwort-Eingabefeldes)
+5. Erledigt!
 
 ## Schritt 3 (optional): xDrip einrichten
 
