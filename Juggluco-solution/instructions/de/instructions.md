@@ -4,6 +4,8 @@ Das Freestyle Libre 3 System kann automatisch gefährliche Blutzuckerwerte melde
 
 Der Sensor kann im Bereich von -40 mg/dl bis +20 mg/dl (-2,2 mmol/l bis +1,1 mmol/l) kalibriert werden, um Unterschiede zwischen der blutigen Messung und den Sensormessungen auszugleichen.
 
+Wenn der Sensor mit einem angemeldeten Libreview-Konto gestartet wurde, ist es auch möglich, zwischen Juggluco und der Libre 3 App als Empfänger zu wechseln.
+
 ### Derzeitige Einschränkungen
 
 - Wenn du ein gerootetes System hast und die Libre 3 App verwenden möchtest, musst du diesen verstecken. Hier findest du eine Anleitung: [Link](https://www.reddit.com/r/Freestylelibre/comments/s22vlr/comment/hw2p4th/?utm_source=share\&utm_medium=web2x\&context=3).
@@ -82,6 +84,18 @@ Nach einem Sensorwechsel wird xDrip+ den neuen Sensor automatisch erkennen und a
 - Wenn AndroidAPS keine Werte empfängt, wenn sich das Telefon im Flugmodus befindet, verwende "Identify receiver".
 
 Stand jetzt kann bei Verwendung vom Libre 3 als BZ-Quelle die Optionen "SMB immer aktivieren" und "SMB nach Carbs aktivieren" im SMB-Algorithmus nicht aktiviert werden. Die BZ-Werte von Libre 3 sind nicht glatt genug, um sie sicher zu verwenden.
+
+## Sensor zwischen Libre 3 und Juggluco App wechseln
+
+Wenn der Sensor mit einem angemeldeten Libreview-Konto gestartet wurde, ist es auch möglich, zwischen Juggluco und der Libre 3 App als Empfänger zu wechseln. Dazu sind die folgenden Schritte erforderlich:
+
+1. Installiere die Libre 3 App aus dem Google Playstore
+2. Richte die Libre 3 App mit dem Libreview-Konto ein, mit dem der Sensor aktiviert wurde.
+3. Erzwinge das Beenden der Juggluco-App in den Android-Einstellungen.
+4. Klicke im Libre 3 Menü auf "Sensor starten", wähle "Ja", "Weiter" und scanne deinen Sensor.
+5. Nach einigen Minuten sollten die BG-Werte in der Libre 3 App sichtbar sein.
+
+Um von der Libre 3 App zu Juggluco zu wechseln, muss die Libre 3 App über die Android-Einstellungen zwangsgestoppt werden und mit Schritt 1 & 2 fortgefahren werden.
 
 ## Erfahrungen und Fehlerbehebung
 

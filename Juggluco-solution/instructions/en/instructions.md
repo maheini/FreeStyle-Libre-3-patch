@@ -4,6 +4,8 @@ The Freestyle Libre 3 system can automatically report dangerous blood glucose le
 
 The sensor can be calibrated in the range of -40 mg/dl to +20 mg/dl (-2,2 mmol/l to +1,1 mmol/l) to adjust differences between finger prick measurements and sensor readings.
 
+If the sensor has been started with a Libreview account logged in, it is also possible to switch between Juggluco and the Libre 3 app as receiver.
+
 ### Current limitations
 
 - If you have a rooted system and want to use the Libre 3 app, you need to hide it. You can find instructions here: [Link](https://www.reddit.com/r/Freestylelibre/comments/s22vlr/comment/hw2p4th/?utm_source=share\&utm_medium=web2x\&context=3).
@@ -82,6 +84,18 @@ After a sensor change xDrip+ will automatically detect the new sensor and will d
 - If AndroidAPS does not receive BG values when phone is in airplane mode, use "Identify receiver"
 
 As of now, when using Libre 3 as a BG source, the "Always enable SMB" and "Enable SMB by Carbs" options cannot be enabled in the SMB algorithm. The BG values from Libre 3 are not smooth enough to use safely.
+
+## Switch sensor between Libre 3 and Juggluco app
+
+If the sensor has been started with a Libreview account logged in, it is also possible to switch between Juggluco and the Libre 3 app as receiver. This requires the following steps:
+
+1. Install the Libre 3 app from Google Playstore
+2. Set up the Libre 3 app with the Libreview account with which the sensor was activated.
+3. Force stop the Juggluco app in the Android settings.
+4. In the Libre 3 menu, click "Start Sensor", select "Yes", "Next" and scan your sensor.
+5. After some minutes, the BG-Values should be visible within Libre 3 App.
+
+In order to switch from the Libre 3 app to Juggluco, you need to force-stop Libre 3 app via Android settings and proceed with Step 1 & 2.
 
 ## Experiences and Troubleshooting
 
